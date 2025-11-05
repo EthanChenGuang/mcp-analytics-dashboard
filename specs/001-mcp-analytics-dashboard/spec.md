@@ -93,15 +93,32 @@ A user wants to learn more about the analytics dashboard, its purpose, data sour
 
 ### Edge Cases
 
-- What happens when the MCP registry API is unavailable or returns an error?
-- How does the system handle empty data sets (no servers, no analytics data)?
-- What happens when switching granularity while filters are applied - does data remain consistent?
-- How does the system handle timezone differences when displaying dates on the x-axis?
-- What happens when a user switches themes rapidly - does the UI remain responsive?
-- How does the system handle very large datasets when displaying monthly granularity over long periods?
-- What happens when the API returns malformed or incomplete data?
-- How does the system handle network timeouts or slow API responses?
-- What happens when a user has no stored theme preference (first visit)?
+1. **API Unavailability or Errors**
+   - **Solution**: Display a user-friendly error banner with retry option. If cached data exists from a previous successful fetch, display it with a visual indicator showing data staleness. Implement exponential backoff retry mechanism (1s, 2s, 4s intervals, max 3 attempts). Provide manual refresh button. Show error message: "Unable to fetch latest analytics. Showing cached data from [timestamp]." if cache available, or "Unable to connect to analytics service. Please try again later." if no cache.
+
+2. **Empty Data Sets**
+   - **Solution**: Display an empty state UI with informative message: "No analytics data available yet." Show charts with zero values and proper axis labels. Ensure all UI elements remain functional (filters, granularity, theme toggle). Do not show error states for empty but valid responses.
+
+3. **Switching Granularity with Active Filters**
+   - **Solution**: Preserve filter state when changing granularity. Re-fetch or re-aggregate data using current filter selection and new granularity. Ensure data consistency by maintaining filter context throughout granularity changes. Show loading indicator during transition to prevent user confusion.
+
+4. **Timezone Differences**
+   - **Solution**: Store and receive all timestamps from API in UTC. Convert timestamps to user's local timezone for display on x-axis. Use locale-aware date formatting (e.g., "Jan 27, 2025" for daily, "14:00" for hourly). Optionally display timezone indicator (e.g., "Local Time (PST)") in chart legend or axis label.
+
+5. **Rapid Theme Switching**
+   - **Solution**: Debounce theme toggle to prevent rapid-fire changes (300ms debounce). Use CSS transitions for smooth theme transitions. Ensure theme toggle is non-blocking and doesn't interrupt data fetching or chart rendering. Disable toggle button during transition if needed to prevent state conflicts.
+
+6. **Very Large Datasets**
+   - **Solution**: Implement client-side data aggregation/sampling for datasets exceeding 1000 data points. Use progressive data loading for monthly views over extended periods (e.g., load last 12 months by default with option to expand). Optimize chart rendering using virtualization or data decimation techniques. Display reasonable default time range (e.g., last 30 days for daily, last 12 months for monthly).
+
+7. **Malformed or Incomplete API Data**
+   - **Solution**: Validate API response structure before processing. Log validation errors for debugging. Skip invalid data points with warning in console, display valid data points. If critical fields are missing (e.g., timestamp, count), show partial data with warning message: "Some data may be incomplete." If entire response is invalid, treat as API error and follow error handling procedure.
+
+8. **Network Timeouts or Slow Responses**
+   - **Solution**: Set API request timeout to 10 seconds (per SC-010). Show loading indicator during entire fetch duration. For slow responses (>3 seconds), display progressive loading message: "Fetching analytics data... This may take a moment." Implement request cancellation if user navigates away or changes filters/granularity before response completes. Cache successful responses to reduce load times on subsequent requests.
+
+9. **No Stored Theme Preference (First Visit)**
+   - **Solution**: Default to light theme for first-time visitors. Detect system preference using `prefers-color-scheme` media query as fallback if available. Apply default theme immediately on page load to prevent flash of unstyled content. Once user explicitly selects a theme, persist preference in localStorage for future visits.
 
 ## Requirements *(mandatory)*
 
