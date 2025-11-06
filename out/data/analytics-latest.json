@@ -1,0 +1,5699 @@
+[
+  {
+    "timestamp": "2024-12-28T23:00:00.000Z",
+    "localCount": 2494,
+    "remoteCount": 1796,
+    "totalCount": 3991,
+    "bothCount": 300,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T00:00:00.000Z",
+    "localCount": 2500,
+    "remoteCount": 1799,
+    "totalCount": 4000,
+    "bothCount": 300,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T01:00:00.000Z",
+    "localCount": 2496,
+    "remoteCount": 1797,
+    "totalCount": 3994,
+    "bothCount": 300,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T02:00:00.000Z",
+    "localCount": 2507,
+    "remoteCount": 1804,
+    "totalCount": 4012,
+    "bothCount": 300,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T03:00:00.000Z",
+    "localCount": 2509,
+    "remoteCount": 1806,
+    "totalCount": 4015,
+    "bothCount": 300,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-29T04:00:00.000Z",
+    "localCount": 2500,
+    "remoteCount": 1800,
+    "totalCount": 4001,
+    "bothCount": 300,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T05:00:00.000Z",
+    "localCount": 2512,
+    "remoteCount": 1808,
+    "totalCount": 4020,
+    "bothCount": 300,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-29T06:00:00.000Z",
+    "localCount": 2505,
+    "remoteCount": 1804,
+    "totalCount": 4009,
+    "bothCount": 300,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-29T07:00:00.000Z",
+    "localCount": 2512,
+    "remoteCount": 1808,
+    "totalCount": 4020,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T08:00:00.000Z",
+    "localCount": 2513,
+    "remoteCount": 1809,
+    "totalCount": 4022,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T09:00:00.000Z",
+    "localCount": 2514,
+    "remoteCount": 1810,
+    "totalCount": 4024,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T10:00:00.000Z",
+    "localCount": 2515,
+    "remoteCount": 1810,
+    "totalCount": 4025,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T11:00:00.000Z",
+    "localCount": 2515,
+    "remoteCount": 1810,
+    "totalCount": 4024,
+    "bothCount": 301,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-29T12:00:00.000Z",
+    "localCount": 2510,
+    "remoteCount": 1807,
+    "totalCount": 4017,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T13:00:00.000Z",
+    "localCount": 2509,
+    "remoteCount": 1806,
+    "totalCount": 4015,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T14:00:00.000Z",
+    "localCount": 2510,
+    "remoteCount": 1807,
+    "totalCount": 4017,
+    "bothCount": 301,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T15:00:00.000Z",
+    "localCount": 2519,
+    "remoteCount": 1813,
+    "totalCount": 4031,
+    "bothCount": 302,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T16:00:00.000Z",
+    "localCount": 2511,
+    "remoteCount": 1808,
+    "totalCount": 4018,
+    "bothCount": 302,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T17:00:00.000Z",
+    "localCount": 2522,
+    "remoteCount": 1815,
+    "totalCount": 4037,
+    "bothCount": 302,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-29T18:00:00.000Z",
+    "localCount": 2518,
+    "remoteCount": 1813,
+    "totalCount": 4030,
+    "bothCount": 302,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T19:00:00.000Z",
+    "localCount": 2521,
+    "remoteCount": 1815,
+    "totalCount": 4035,
+    "bothCount": 302,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T20:00:00.000Z",
+    "localCount": 2525,
+    "remoteCount": 1817,
+    "totalCount": 4042,
+    "bothCount": 302,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-29T21:00:00.000Z",
+    "localCount": 2516,
+    "remoteCount": 1812,
+    "totalCount": 4026,
+    "bothCount": 302,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-29T22:00:00.000Z",
+    "localCount": 2521,
+    "remoteCount": 1816,
+    "totalCount": 4036,
+    "bothCount": 302,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-29T23:00:00.000Z",
+    "localCount": 2525,
+    "remoteCount": 1818,
+    "totalCount": 4040,
+    "bothCount": 303,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T00:00:00.000Z",
+    "localCount": 2527,
+    "remoteCount": 1819,
+    "totalCount": 4044,
+    "bothCount": 303,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T01:00:00.000Z",
+    "localCount": 2523,
+    "remoteCount": 1816,
+    "totalCount": 4037,
+    "bothCount": 303,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T02:00:00.000Z",
+    "localCount": 2527,
+    "remoteCount": 1819,
+    "totalCount": 4044,
+    "bothCount": 303,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T03:00:00.000Z",
+    "localCount": 2531,
+    "remoteCount": 1822,
+    "totalCount": 4050,
+    "bothCount": 303,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T04:00:00.000Z",
+    "localCount": 2533,
+    "remoteCount": 1823,
+    "totalCount": 4054,
+    "bothCount": 303,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T05:00:00.000Z",
+    "localCount": 2532,
+    "remoteCount": 1823,
+    "totalCount": 4053,
+    "bothCount": 303,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T06:00:00.000Z",
+    "localCount": 2535,
+    "remoteCount": 1825,
+    "totalCount": 4056,
+    "bothCount": 303,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T07:00:00.000Z",
+    "localCount": 2539,
+    "remoteCount": 1828,
+    "totalCount": 4063,
+    "bothCount": 304,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T08:00:00.000Z",
+    "localCount": 2540,
+    "remoteCount": 1828,
+    "totalCount": 4064,
+    "bothCount": 304,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T09:00:00.000Z",
+    "localCount": 2538,
+    "remoteCount": 1827,
+    "totalCount": 4062,
+    "bothCount": 304,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T10:00:00.000Z",
+    "localCount": 2531,
+    "remoteCount": 1823,
+    "totalCount": 4051,
+    "bothCount": 304,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T11:00:00.000Z",
+    "localCount": 2534,
+    "remoteCount": 1824,
+    "totalCount": 4055,
+    "bothCount": 304,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T12:00:00.000Z",
+    "localCount": 2542,
+    "remoteCount": 1830,
+    "totalCount": 4069,
+    "bothCount": 304,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T13:00:00.000Z",
+    "localCount": 2545,
+    "remoteCount": 1832,
+    "totalCount": 4073,
+    "bothCount": 304,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T14:00:00.000Z",
+    "localCount": 2534,
+    "remoteCount": 1825,
+    "totalCount": 4055,
+    "bothCount": 304,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T15:00:00.000Z",
+    "localCount": 2547,
+    "remoteCount": 1834,
+    "totalCount": 4076,
+    "bothCount": 305,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T16:00:00.000Z",
+    "localCount": 2548,
+    "remoteCount": 1834,
+    "totalCount": 4078,
+    "bothCount": 305,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T17:00:00.000Z",
+    "localCount": 2545,
+    "remoteCount": 1832,
+    "totalCount": 4074,
+    "bothCount": 305,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-30T18:00:00.000Z",
+    "localCount": 2540,
+    "remoteCount": 1829,
+    "totalCount": 4065,
+    "bothCount": 305,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T19:00:00.000Z",
+    "localCount": 2545,
+    "remoteCount": 1833,
+    "totalCount": 4073,
+    "bothCount": 305,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T20:00:00.000Z",
+    "localCount": 2541,
+    "remoteCount": 1830,
+    "totalCount": 4068,
+    "bothCount": 305,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-30T21:00:00.000Z",
+    "localCount": 2544,
+    "remoteCount": 1832,
+    "totalCount": 4071,
+    "bothCount": 305,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-30T22:00:00.000Z",
+    "localCount": 2552,
+    "remoteCount": 1838,
+    "totalCount": 4086,
+    "bothCount": 305,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-30T23:00:00.000Z",
+    "localCount": 2544,
+    "remoteCount": 1832,
+    "totalCount": 4071,
+    "bothCount": 306,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T00:00:00.000Z",
+    "localCount": 2550,
+    "remoteCount": 1835,
+    "totalCount": 4080,
+    "bothCount": 306,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T01:00:00.000Z",
+    "localCount": 2552,
+    "remoteCount": 1837,
+    "totalCount": 4083,
+    "bothCount": 306,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T02:00:00.000Z",
+    "localCount": 2556,
+    "remoteCount": 1840,
+    "totalCount": 4091,
+    "bothCount": 306,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T03:00:00.000Z",
+    "localCount": 2554,
+    "remoteCount": 1839,
+    "totalCount": 4086,
+    "bothCount": 306,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T04:00:00.000Z",
+    "localCount": 2555,
+    "remoteCount": 1839,
+    "totalCount": 4088,
+    "bothCount": 306,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T05:00:00.000Z",
+    "localCount": 2555,
+    "remoteCount": 1839,
+    "totalCount": 4089,
+    "bothCount": 306,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T06:00:00.000Z",
+    "localCount": 2552,
+    "remoteCount": 1838,
+    "totalCount": 4084,
+    "bothCount": 306,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T07:00:00.000Z",
+    "localCount": 2553,
+    "remoteCount": 1839,
+    "totalCount": 4086,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T08:00:00.000Z",
+    "localCount": 2560,
+    "remoteCount": 1843,
+    "totalCount": 4097,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T09:00:00.000Z",
+    "localCount": 2558,
+    "remoteCount": 1842,
+    "totalCount": 4094,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T10:00:00.000Z",
+    "localCount": 2555,
+    "remoteCount": 1840,
+    "totalCount": 4088,
+    "bothCount": 307,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T11:00:00.000Z",
+    "localCount": 2565,
+    "remoteCount": 1846,
+    "totalCount": 4106,
+    "bothCount": 307,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-31T12:00:00.000Z",
+    "localCount": 2567,
+    "remoteCount": 1847,
+    "totalCount": 4108,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T13:00:00.000Z",
+    "localCount": 2568,
+    "remoteCount": 1849,
+    "totalCount": 4111,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T14:00:00.000Z",
+    "localCount": 2566,
+    "remoteCount": 1847,
+    "totalCount": 4107,
+    "bothCount": 307,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T15:00:00.000Z",
+    "localCount": 2565,
+    "remoteCount": 1847,
+    "totalCount": 4105,
+    "bothCount": 308,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T16:00:00.000Z",
+    "localCount": 2566,
+    "remoteCount": 1847,
+    "totalCount": 4107,
+    "bothCount": 308,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-31T17:00:00.000Z",
+    "localCount": 2570,
+    "remoteCount": 1850,
+    "totalCount": 4114,
+    "bothCount": 308,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2024-12-31T18:00:00.000Z",
+    "localCount": 2569,
+    "remoteCount": 1850,
+    "totalCount": 4112,
+    "bothCount": 308,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T19:00:00.000Z",
+    "localCount": 2564,
+    "remoteCount": 1847,
+    "totalCount": 4103,
+    "bothCount": 308,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2024-12-31T20:00:00.000Z",
+    "localCount": 2577,
+    "remoteCount": 1855,
+    "totalCount": 4125,
+    "bothCount": 308,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T21:00:00.000Z",
+    "localCount": 2570,
+    "remoteCount": 1850,
+    "totalCount": 4113,
+    "bothCount": 308,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T22:00:00.000Z",
+    "localCount": 2577,
+    "remoteCount": 1855,
+    "totalCount": 4125,
+    "bothCount": 308,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2024-12-31T23:00:00.000Z",
+    "localCount": 2576,
+    "remoteCount": 1854,
+    "totalCount": 4122,
+    "bothCount": 309,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00.000Z",
+    "localCount": 2577,
+    "remoteCount": 1855,
+    "totalCount": 4124,
+    "bothCount": 309,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T01:00:00.000Z",
+    "localCount": 2578,
+    "remoteCount": 1856,
+    "totalCount": 4126,
+    "bothCount": 309,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T02:00:00.000Z",
+    "localCount": 2582,
+    "remoteCount": 1859,
+    "totalCount": 4133,
+    "bothCount": 309,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T03:00:00.000Z",
+    "localCount": 2581,
+    "remoteCount": 1858,
+    "totalCount": 4130,
+    "bothCount": 309,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T04:00:00.000Z",
+    "localCount": 2577,
+    "remoteCount": 1855,
+    "totalCount": 4123,
+    "bothCount": 309,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T05:00:00.000Z",
+    "localCount": 2587,
+    "remoteCount": 1862,
+    "totalCount": 4140,
+    "bothCount": 309,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T06:00:00.000Z",
+    "localCount": 2587,
+    "remoteCount": 1862,
+    "totalCount": 4140,
+    "bothCount": 309,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T07:00:00.000Z",
+    "localCount": 2581,
+    "remoteCount": 1859,
+    "totalCount": 4131,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T08:00:00.000Z",
+    "localCount": 2585,
+    "remoteCount": 1860,
+    "totalCount": 4137,
+    "bothCount": 310,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-01T09:00:00.000Z",
+    "localCount": 2585,
+    "remoteCount": 1861,
+    "totalCount": 4137,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T10:00:00.000Z",
+    "localCount": 2588,
+    "remoteCount": 1863,
+    "totalCount": 4142,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T11:00:00.000Z",
+    "localCount": 2587,
+    "remoteCount": 1862,
+    "totalCount": 4140,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T12:00:00.000Z",
+    "localCount": 2592,
+    "remoteCount": 1866,
+    "totalCount": 4149,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T13:00:00.000Z",
+    "localCount": 2590,
+    "remoteCount": 1864,
+    "totalCount": 4145,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T14:00:00.000Z",
+    "localCount": 2593,
+    "remoteCount": 1867,
+    "totalCount": 4151,
+    "bothCount": 310,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T15:00:00.000Z",
+    "localCount": 2591,
+    "remoteCount": 1866,
+    "totalCount": 4146,
+    "bothCount": 311,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T16:00:00.000Z",
+    "localCount": 2590,
+    "remoteCount": 1864,
+    "totalCount": 4145,
+    "bothCount": 311,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-01T17:00:00.000Z",
+    "localCount": 2587,
+    "remoteCount": 1863,
+    "totalCount": 4141,
+    "bothCount": 311,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-01T18:00:00.000Z",
+    "localCount": 2589,
+    "remoteCount": 1864,
+    "totalCount": 4143,
+    "bothCount": 311,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T19:00:00.000Z",
+    "localCount": 2595,
+    "remoteCount": 1869,
+    "totalCount": 4154,
+    "bothCount": 311,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T20:00:00.000Z",
+    "localCount": 2597,
+    "remoteCount": 1870,
+    "totalCount": 4158,
+    "bothCount": 311,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-01T21:00:00.000Z",
+    "localCount": 2594,
+    "remoteCount": 1868,
+    "totalCount": 4151,
+    "bothCount": 311,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-01T22:00:00.000Z",
+    "localCount": 2602,
+    "remoteCount": 1874,
+    "totalCount": 4166,
+    "bothCount": 311,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-01T23:00:00.000Z",
+    "localCount": 2600,
+    "remoteCount": 1872,
+    "totalCount": 4160,
+    "bothCount": 312,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00.000Z",
+    "localCount": 2604,
+    "remoteCount": 1874,
+    "totalCount": 4167,
+    "bothCount": 312,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T01:00:00.000Z",
+    "localCount": 2603,
+    "remoteCount": 1874,
+    "totalCount": 4166,
+    "bothCount": 312,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T02:00:00.000Z",
+    "localCount": 2603,
+    "remoteCount": 1874,
+    "totalCount": 4165,
+    "bothCount": 312,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T03:00:00.000Z",
+    "localCount": 2610,
+    "remoteCount": 1879,
+    "totalCount": 4176,
+    "bothCount": 312,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T04:00:00.000Z",
+    "localCount": 2604,
+    "remoteCount": 1874,
+    "totalCount": 4167,
+    "bothCount": 312,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T05:00:00.000Z",
+    "localCount": 2607,
+    "remoteCount": 1876,
+    "totalCount": 4172,
+    "bothCount": 312,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T06:00:00.000Z",
+    "localCount": 2605,
+    "remoteCount": 1876,
+    "totalCount": 4169,
+    "bothCount": 312,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T07:00:00.000Z",
+    "localCount": 2603,
+    "remoteCount": 1873,
+    "totalCount": 4165,
+    "bothCount": 312,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T08:00:00.000Z",
+    "localCount": 2604,
+    "remoteCount": 1874,
+    "totalCount": 4167,
+    "bothCount": 313,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-02T09:00:00.000Z",
+    "localCount": 2610,
+    "remoteCount": 1879,
+    "totalCount": 4176,
+    "bothCount": 313,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T10:00:00.000Z",
+    "localCount": 2605,
+    "remoteCount": 1876,
+    "totalCount": 4169,
+    "bothCount": 313,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T11:00:00.000Z",
+    "localCount": 2612,
+    "remoteCount": 1880,
+    "totalCount": 4181,
+    "bothCount": 313,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-02T12:00:00.000Z",
+    "localCount": 2608,
+    "remoteCount": 1877,
+    "totalCount": 4173,
+    "bothCount": 313,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T13:00:00.000Z",
+    "localCount": 2620,
+    "remoteCount": 1886,
+    "totalCount": 4193,
+    "bothCount": 313,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T14:00:00.000Z",
+    "localCount": 2615,
+    "remoteCount": 1883,
+    "totalCount": 4185,
+    "bothCount": 313,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-02T15:00:00.000Z",
+    "localCount": 2611,
+    "remoteCount": 1881,
+    "totalCount": 4179,
+    "bothCount": 314,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T16:00:00.000Z",
+    "localCount": 2615,
+    "remoteCount": 1882,
+    "totalCount": 4185,
+    "bothCount": 314,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-02T17:00:00.000Z",
+    "localCount": 2613,
+    "remoteCount": 1882,
+    "totalCount": 4183,
+    "bothCount": 314,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-02T18:00:00.000Z",
+    "localCount": 2624,
+    "remoteCount": 1889,
+    "totalCount": 4200,
+    "bothCount": 314,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T19:00:00.000Z",
+    "localCount": 2615,
+    "remoteCount": 1884,
+    "totalCount": 4186,
+    "bothCount": 314,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T20:00:00.000Z",
+    "localCount": 2623,
+    "remoteCount": 1888,
+    "totalCount": 4199,
+    "bothCount": 314,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-02T21:00:00.000Z",
+    "localCount": 2620,
+    "remoteCount": 1887,
+    "totalCount": 4194,
+    "bothCount": 314,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T22:00:00.000Z",
+    "localCount": 2621,
+    "remoteCount": 1888,
+    "totalCount": 4196,
+    "bothCount": 314,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-02T23:00:00.000Z",
+    "localCount": 2629,
+    "remoteCount": 1892,
+    "totalCount": 4207,
+    "bothCount": 315,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00.000Z",
+    "localCount": 2626,
+    "remoteCount": 1890,
+    "totalCount": 4201,
+    "bothCount": 315,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T01:00:00.000Z",
+    "localCount": 2625,
+    "remoteCount": 1889,
+    "totalCount": 4200,
+    "bothCount": 315,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T02:00:00.000Z",
+    "localCount": 2631,
+    "remoteCount": 1894,
+    "totalCount": 4210,
+    "bothCount": 315,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T03:00:00.000Z",
+    "localCount": 2635,
+    "remoteCount": 1897,
+    "totalCount": 4216,
+    "bothCount": 315,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T04:00:00.000Z",
+    "localCount": 2634,
+    "remoteCount": 1896,
+    "totalCount": 4216,
+    "bothCount": 315,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T05:00:00.000Z",
+    "localCount": 2632,
+    "remoteCount": 1895,
+    "totalCount": 4213,
+    "bothCount": 315,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T06:00:00.000Z",
+    "localCount": 2626,
+    "remoteCount": 1891,
+    "totalCount": 4202,
+    "bothCount": 315,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T07:00:00.000Z",
+    "localCount": 2632,
+    "remoteCount": 1894,
+    "totalCount": 4212,
+    "bothCount": 315,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T08:00:00.000Z",
+    "localCount": 2634,
+    "remoteCount": 1896,
+    "totalCount": 4216,
+    "bothCount": 316,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-03T09:00:00.000Z",
+    "localCount": 2633,
+    "remoteCount": 1896,
+    "totalCount": 4214,
+    "bothCount": 316,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T10:00:00.000Z",
+    "localCount": 2640,
+    "remoteCount": 1901,
+    "totalCount": 4226,
+    "bothCount": 316,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T11:00:00.000Z",
+    "localCount": 2637,
+    "remoteCount": 1899,
+    "totalCount": 4220,
+    "bothCount": 316,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T12:00:00.000Z",
+    "localCount": 2643,
+    "remoteCount": 1902,
+    "totalCount": 4230,
+    "bothCount": 316,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T13:00:00.000Z",
+    "localCount": 2634,
+    "remoteCount": 1897,
+    "totalCount": 4216,
+    "bothCount": 316,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T14:00:00.000Z",
+    "localCount": 2643,
+    "remoteCount": 1903,
+    "totalCount": 4230,
+    "bothCount": 316,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-03T15:00:00.000Z",
+    "localCount": 2645,
+    "remoteCount": 1905,
+    "totalCount": 4234,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T16:00:00.000Z",
+    "localCount": 2642,
+    "remoteCount": 1902,
+    "totalCount": 4229,
+    "bothCount": 317,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-03T17:00:00.000Z",
+    "localCount": 2643,
+    "remoteCount": 1903,
+    "totalCount": 4230,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T18:00:00.000Z",
+    "localCount": 2648,
+    "remoteCount": 1907,
+    "totalCount": 4239,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T19:00:00.000Z",
+    "localCount": 2642,
+    "remoteCount": 1903,
+    "totalCount": 4229,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T20:00:00.000Z",
+    "localCount": 2640,
+    "remoteCount": 1901,
+    "totalCount": 4226,
+    "bothCount": 317,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-03T21:00:00.000Z",
+    "localCount": 2651,
+    "remoteCount": 1908,
+    "totalCount": 4243,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T22:00:00.000Z",
+    "localCount": 2644,
+    "remoteCount": 1904,
+    "totalCount": 4232,
+    "bothCount": 317,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-03T23:00:00.000Z",
+    "localCount": 2655,
+    "remoteCount": 1911,
+    "totalCount": 4249,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00.000Z",
+    "localCount": 2654,
+    "remoteCount": 1910,
+    "totalCount": 4247,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T01:00:00.000Z",
+    "localCount": 2647,
+    "remoteCount": 1906,
+    "totalCount": 4236,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T02:00:00.000Z",
+    "localCount": 2648,
+    "remoteCount": 1906,
+    "totalCount": 4237,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T03:00:00.000Z",
+    "localCount": 2656,
+    "remoteCount": 1912,
+    "totalCount": 4250,
+    "bothCount": 318,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T04:00:00.000Z",
+    "localCount": 2655,
+    "remoteCount": 1911,
+    "totalCount": 4249,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T05:00:00.000Z",
+    "localCount": 2654,
+    "remoteCount": 1910,
+    "totalCount": 4247,
+    "bothCount": 318,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T06:00:00.000Z",
+    "localCount": 2657,
+    "remoteCount": 1913,
+    "totalCount": 4251,
+    "bothCount": 318,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T07:00:00.000Z",
+    "localCount": 2652,
+    "remoteCount": 1909,
+    "totalCount": 4244,
+    "bothCount": 319,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-04T08:00:00.000Z",
+    "localCount": 2665,
+    "remoteCount": 1918,
+    "totalCount": 4265,
+    "bothCount": 319,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T09:00:00.000Z",
+    "localCount": 2659,
+    "remoteCount": 1914,
+    "totalCount": 4255,
+    "bothCount": 319,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T10:00:00.000Z",
+    "localCount": 2664,
+    "remoteCount": 1918,
+    "totalCount": 4263,
+    "bothCount": 319,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T11:00:00.000Z",
+    "localCount": 2667,
+    "remoteCount": 1920,
+    "totalCount": 4269,
+    "bothCount": 319,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T12:00:00.000Z",
+    "localCount": 2666,
+    "remoteCount": 1919,
+    "totalCount": 4266,
+    "bothCount": 319,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T13:00:00.000Z",
+    "localCount": 2664,
+    "remoteCount": 1918,
+    "totalCount": 4264,
+    "bothCount": 319,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T14:00:00.000Z",
+    "localCount": 2660,
+    "remoteCount": 1916,
+    "totalCount": 4258,
+    "bothCount": 319,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T15:00:00.000Z",
+    "localCount": 2666,
+    "remoteCount": 1920,
+    "totalCount": 4266,
+    "bothCount": 320,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T16:00:00.000Z",
+    "localCount": 2666,
+    "remoteCount": 1919,
+    "totalCount": 4267,
+    "bothCount": 320,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-04T17:00:00.000Z",
+    "localCount": 2671,
+    "remoteCount": 1923,
+    "totalCount": 4276,
+    "bothCount": 320,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-04T18:00:00.000Z",
+    "localCount": 2668,
+    "remoteCount": 1921,
+    "totalCount": 4270,
+    "bothCount": 320,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T19:00:00.000Z",
+    "localCount": 2664,
+    "remoteCount": 1919,
+    "totalCount": 4263,
+    "bothCount": 320,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T20:00:00.000Z",
+    "localCount": 2675,
+    "remoteCount": 1926,
+    "totalCount": 4283,
+    "bothCount": 320,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-04T21:00:00.000Z",
+    "localCount": 2675,
+    "remoteCount": 1926,
+    "totalCount": 4281,
+    "bothCount": 320,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-04T22:00:00.000Z",
+    "localCount": 2677,
+    "remoteCount": 1927,
+    "totalCount": 4285,
+    "bothCount": 320,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-04T23:00:00.000Z",
+    "localCount": 2670,
+    "remoteCount": 1923,
+    "totalCount": 4273,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00.000Z",
+    "localCount": 2671,
+    "remoteCount": 1923,
+    "totalCount": 4274,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T01:00:00.000Z",
+    "localCount": 2672,
+    "remoteCount": 1924,
+    "totalCount": 4276,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T02:00:00.000Z",
+    "localCount": 2683,
+    "remoteCount": 1931,
+    "totalCount": 4294,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T03:00:00.000Z",
+    "localCount": 2682,
+    "remoteCount": 1931,
+    "totalCount": 4292,
+    "bothCount": 321,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-05T04:00:00.000Z",
+    "localCount": 2676,
+    "remoteCount": 1926,
+    "totalCount": 4282,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T05:00:00.000Z",
+    "localCount": 2682,
+    "remoteCount": 1930,
+    "totalCount": 4292,
+    "bothCount": 321,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T06:00:00.000Z",
+    "localCount": 2683,
+    "remoteCount": 1932,
+    "totalCount": 4294,
+    "bothCount": 321,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-05T07:00:00.000Z",
+    "localCount": 2683,
+    "remoteCount": 1931,
+    "totalCount": 4294,
+    "bothCount": 322,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-05T08:00:00.000Z",
+    "localCount": 2680,
+    "remoteCount": 1929,
+    "totalCount": 4289,
+    "bothCount": 322,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-05T09:00:00.000Z",
+    "localCount": 2685,
+    "remoteCount": 1933,
+    "totalCount": 4297,
+    "bothCount": 322,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T10:00:00.000Z",
+    "localCount": 2690,
+    "remoteCount": 1936,
+    "totalCount": 4305,
+    "bothCount": 322,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T11:00:00.000Z",
+    "localCount": 2682,
+    "remoteCount": 1932,
+    "totalCount": 4293,
+    "bothCount": 322,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T12:00:00.000Z",
+    "localCount": 2688,
+    "remoteCount": 1935,
+    "totalCount": 4301,
+    "bothCount": 322,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-05T13:00:00.000Z",
+    "localCount": 2694,
+    "remoteCount": 1939,
+    "totalCount": 4312,
+    "bothCount": 322,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T14:00:00.000Z",
+    "localCount": 2695,
+    "remoteCount": 1940,
+    "totalCount": 4314,
+    "bothCount": 322,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T15:00:00.000Z",
+    "localCount": 2688,
+    "remoteCount": 1936,
+    "totalCount": 4302,
+    "bothCount": 323,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T16:00:00.000Z",
+    "localCount": 2697,
+    "remoteCount": 1941,
+    "totalCount": 4317,
+    "bothCount": 323,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-05T17:00:00.000Z",
+    "localCount": 2689,
+    "remoteCount": 1936,
+    "totalCount": 4304,
+    "bothCount": 323,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-05T18:00:00.000Z",
+    "localCount": 2698,
+    "remoteCount": 1942,
+    "totalCount": 4318,
+    "bothCount": 323,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T19:00:00.000Z",
+    "localCount": 2690,
+    "remoteCount": 1938,
+    "totalCount": 4306,
+    "bothCount": 323,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T20:00:00.000Z",
+    "localCount": 2692,
+    "remoteCount": 1938,
+    "totalCount": 4309,
+    "bothCount": 323,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-05T21:00:00.000Z",
+    "localCount": 2703,
+    "remoteCount": 1946,
+    "totalCount": 4326,
+    "bothCount": 323,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-05T22:00:00.000Z",
+    "localCount": 2701,
+    "remoteCount": 1945,
+    "totalCount": 4324,
+    "bothCount": 323,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-05T23:00:00.000Z",
+    "localCount": 2696,
+    "remoteCount": 1941,
+    "totalCount": 4314,
+    "bothCount": 324,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00.000Z",
+    "localCount": 2704,
+    "remoteCount": 1946,
+    "totalCount": 4326,
+    "bothCount": 324,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T01:00:00.000Z",
+    "localCount": 2706,
+    "remoteCount": 1948,
+    "totalCount": 4331,
+    "bothCount": 324,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T02:00:00.000Z",
+    "localCount": 2706,
+    "remoteCount": 1948,
+    "totalCount": 4330,
+    "bothCount": 324,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T03:00:00.000Z",
+    "localCount": 2706,
+    "remoteCount": 1947,
+    "totalCount": 4330,
+    "bothCount": 324,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T04:00:00.000Z",
+    "localCount": 2702,
+    "remoteCount": 1945,
+    "totalCount": 4323,
+    "bothCount": 324,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T05:00:00.000Z",
+    "localCount": 2700,
+    "remoteCount": 1944,
+    "totalCount": 4320,
+    "bothCount": 324,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T06:00:00.000Z",
+    "localCount": 2705,
+    "remoteCount": 1948,
+    "totalCount": 4329,
+    "bothCount": 324,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T07:00:00.000Z",
+    "localCount": 2706,
+    "remoteCount": 1948,
+    "totalCount": 4331,
+    "bothCount": 325,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-06T08:00:00.000Z",
+    "localCount": 2704,
+    "remoteCount": 1947,
+    "totalCount": 4328,
+    "bothCount": 325,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-06T09:00:00.000Z",
+    "localCount": 2711,
+    "remoteCount": 1951,
+    "totalCount": 4338,
+    "bothCount": 325,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T10:00:00.000Z",
+    "localCount": 2715,
+    "remoteCount": 1954,
+    "totalCount": 4345,
+    "bothCount": 325,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T11:00:00.000Z",
+    "localCount": 2718,
+    "remoteCount": 1957,
+    "totalCount": 4350,
+    "bothCount": 325,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T12:00:00.000Z",
+    "localCount": 2709,
+    "remoteCount": 1950,
+    "totalCount": 4335,
+    "bothCount": 325,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T13:00:00.000Z",
+    "localCount": 2712,
+    "remoteCount": 1953,
+    "totalCount": 4341,
+    "bothCount": 325,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T14:00:00.000Z",
+    "localCount": 2713,
+    "remoteCount": 1953,
+    "totalCount": 4342,
+    "bothCount": 325,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T15:00:00.000Z",
+    "localCount": 2711,
+    "remoteCount": 1952,
+    "totalCount": 4338,
+    "bothCount": 326,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T16:00:00.000Z",
+    "localCount": 2716,
+    "remoteCount": 1955,
+    "totalCount": 4347,
+    "bothCount": 326,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-06T17:00:00.000Z",
+    "localCount": 2714,
+    "remoteCount": 1954,
+    "totalCount": 4344,
+    "bothCount": 326,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-06T18:00:00.000Z",
+    "localCount": 2716,
+    "remoteCount": 1956,
+    "totalCount": 4346,
+    "bothCount": 326,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T19:00:00.000Z",
+    "localCount": 2714,
+    "remoteCount": 1955,
+    "totalCount": 4343,
+    "bothCount": 326,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T20:00:00.000Z",
+    "localCount": 2722,
+    "remoteCount": 1959,
+    "totalCount": 4357,
+    "bothCount": 326,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-06T21:00:00.000Z",
+    "localCount": 2722,
+    "remoteCount": 1960,
+    "totalCount": 4357,
+    "bothCount": 326,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-06T22:00:00.000Z",
+    "localCount": 2726,
+    "remoteCount": 1963,
+    "totalCount": 4363,
+    "bothCount": 326,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-06T23:00:00.000Z",
+    "localCount": 2726,
+    "remoteCount": 1963,
+    "totalCount": 4363,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00.000Z",
+    "localCount": 2726,
+    "remoteCount": 1962,
+    "totalCount": 4362,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T01:00:00.000Z",
+    "localCount": 2728,
+    "remoteCount": 1963,
+    "totalCount": 4365,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T02:00:00.000Z",
+    "localCount": 2731,
+    "remoteCount": 1966,
+    "totalCount": 4370,
+    "bothCount": 327,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T03:00:00.000Z",
+    "localCount": 2732,
+    "remoteCount": 1966,
+    "totalCount": 4372,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T04:00:00.000Z",
+    "localCount": 2730,
+    "remoteCount": 1965,
+    "totalCount": 4369,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T05:00:00.000Z",
+    "localCount": 2735,
+    "remoteCount": 1968,
+    "totalCount": 4377,
+    "bothCount": 327,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T06:00:00.000Z",
+    "localCount": 2735,
+    "remoteCount": 1969,
+    "totalCount": 4377,
+    "bothCount": 327,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T07:00:00.000Z",
+    "localCount": 2734,
+    "remoteCount": 1968,
+    "totalCount": 4376,
+    "bothCount": 328,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-07T08:00:00.000Z",
+    "localCount": 2731,
+    "remoteCount": 1966,
+    "totalCount": 4370,
+    "bothCount": 328,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T09:00:00.000Z",
+    "localCount": 2730,
+    "remoteCount": 1965,
+    "totalCount": 4368,
+    "bothCount": 328,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T10:00:00.000Z",
+    "localCount": 2731,
+    "remoteCount": 1966,
+    "totalCount": 4370,
+    "bothCount": 328,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T11:00:00.000Z",
+    "localCount": 2739,
+    "remoteCount": 1972,
+    "totalCount": 4384,
+    "bothCount": 328,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T12:00:00.000Z",
+    "localCount": 2732,
+    "remoteCount": 1967,
+    "totalCount": 4371,
+    "bothCount": 328,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T13:00:00.000Z",
+    "localCount": 2745,
+    "remoteCount": 1976,
+    "totalCount": 4393,
+    "bothCount": 328,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T14:00:00.000Z",
+    "localCount": 2743,
+    "remoteCount": 1975,
+    "totalCount": 4391,
+    "bothCount": 328,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T15:00:00.000Z",
+    "localCount": 2735,
+    "remoteCount": 1970,
+    "totalCount": 4377,
+    "bothCount": 329,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T16:00:00.000Z",
+    "localCount": 2742,
+    "remoteCount": 1974,
+    "totalCount": 4388,
+    "bothCount": 329,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T17:00:00.000Z",
+    "localCount": 2744,
+    "remoteCount": 1976,
+    "totalCount": 4393,
+    "bothCount": 329,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-07T18:00:00.000Z",
+    "localCount": 2741,
+    "remoteCount": 1974,
+    "totalCount": 4386,
+    "bothCount": 329,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T19:00:00.000Z",
+    "localCount": 2739,
+    "remoteCount": 1973,
+    "totalCount": 4383,
+    "bothCount": 329,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-07T20:00:00.000Z",
+    "localCount": 2749,
+    "remoteCount": 1979,
+    "totalCount": 4401,
+    "bothCount": 329,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-07T21:00:00.000Z",
+    "localCount": 2750,
+    "remoteCount": 1980,
+    "totalCount": 4402,
+    "bothCount": 329,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T22:00:00.000Z",
+    "localCount": 2752,
+    "remoteCount": 1982,
+    "totalCount": 4406,
+    "bothCount": 329,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-07T23:00:00.000Z",
+    "localCount": 2745,
+    "remoteCount": 1977,
+    "totalCount": 4393,
+    "bothCount": 330,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00.000Z",
+    "localCount": 2746,
+    "remoteCount": 1977,
+    "totalCount": 4394,
+    "bothCount": 330,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T01:00:00.000Z",
+    "localCount": 2758,
+    "remoteCount": 1985,
+    "totalCount": 4413,
+    "bothCount": 330,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T02:00:00.000Z",
+    "localCount": 2748,
+    "remoteCount": 1978,
+    "totalCount": 4397,
+    "bothCount": 330,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T03:00:00.000Z",
+    "localCount": 2748,
+    "remoteCount": 1978,
+    "totalCount": 4396,
+    "bothCount": 330,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T04:00:00.000Z",
+    "localCount": 2755,
+    "remoteCount": 1983,
+    "totalCount": 4409,
+    "bothCount": 330,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T05:00:00.000Z",
+    "localCount": 2757,
+    "remoteCount": 1984,
+    "totalCount": 4412,
+    "bothCount": 330,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T06:00:00.000Z",
+    "localCount": 2760,
+    "remoteCount": 1987,
+    "totalCount": 4417,
+    "bothCount": 330,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T07:00:00.000Z",
+    "localCount": 2762,
+    "remoteCount": 1989,
+    "totalCount": 4421,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T08:00:00.000Z",
+    "localCount": 2759,
+    "remoteCount": 1986,
+    "totalCount": 4416,
+    "bothCount": 331,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-08T09:00:00.000Z",
+    "localCount": 2758,
+    "remoteCount": 1985,
+    "totalCount": 4413,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T10:00:00.000Z",
+    "localCount": 2764,
+    "remoteCount": 1990,
+    "totalCount": 4424,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T11:00:00.000Z",
+    "localCount": 2758,
+    "remoteCount": 1986,
+    "totalCount": 4414,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T12:00:00.000Z",
+    "localCount": 2764,
+    "remoteCount": 1990,
+    "totalCount": 4424,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T13:00:00.000Z",
+    "localCount": 2770,
+    "remoteCount": 1994,
+    "totalCount": 4433,
+    "bothCount": 331,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T14:00:00.000Z",
+    "localCount": 2769,
+    "remoteCount": 1993,
+    "totalCount": 4432,
+    "bothCount": 331,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T15:00:00.000Z",
+    "localCount": 2767,
+    "remoteCount": 1993,
+    "totalCount": 4429,
+    "bothCount": 332,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T16:00:00.000Z",
+    "localCount": 2765,
+    "remoteCount": 1990,
+    "totalCount": 4425,
+    "bothCount": 332,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-08T17:00:00.000Z",
+    "localCount": 2771,
+    "remoteCount": 1995,
+    "totalCount": 4436,
+    "bothCount": 332,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-08T18:00:00.000Z",
+    "localCount": 2767,
+    "remoteCount": 1992,
+    "totalCount": 4428,
+    "bothCount": 332,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T19:00:00.000Z",
+    "localCount": 2776,
+    "remoteCount": 1999,
+    "totalCount": 4443,
+    "bothCount": 332,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T20:00:00.000Z",
+    "localCount": 2774,
+    "remoteCount": 1997,
+    "totalCount": 4440,
+    "bothCount": 332,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T21:00:00.000Z",
+    "localCount": 2769,
+    "remoteCount": 1994,
+    "totalCount": 4431,
+    "bothCount": 332,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-08T22:00:00.000Z",
+    "localCount": 2774,
+    "remoteCount": 1997,
+    "totalCount": 4440,
+    "bothCount": 332,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-08T23:00:00.000Z",
+    "localCount": 2780,
+    "remoteCount": 2001,
+    "totalCount": 4449,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00.000Z",
+    "localCount": 2770,
+    "remoteCount": 1994,
+    "totalCount": 4432,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T01:00:00.000Z",
+    "localCount": 2773,
+    "remoteCount": 1996,
+    "totalCount": 4437,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T02:00:00.000Z",
+    "localCount": 2781,
+    "remoteCount": 2002,
+    "totalCount": 4451,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T03:00:00.000Z",
+    "localCount": 2780,
+    "remoteCount": 2001,
+    "totalCount": 4449,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T04:00:00.000Z",
+    "localCount": 2784,
+    "remoteCount": 2004,
+    "totalCount": 4456,
+    "bothCount": 333,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T05:00:00.000Z",
+    "localCount": 2787,
+    "remoteCount": 2006,
+    "totalCount": 4460,
+    "bothCount": 333,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T06:00:00.000Z",
+    "localCount": 2782,
+    "remoteCount": 2003,
+    "totalCount": 4452,
+    "bothCount": 333,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T07:00:00.000Z",
+    "localCount": 2784,
+    "remoteCount": 2005,
+    "totalCount": 4456,
+    "bothCount": 334,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T08:00:00.000Z",
+    "localCount": 2781,
+    "remoteCount": 2002,
+    "totalCount": 4450,
+    "bothCount": 334,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T09:00:00.000Z",
+    "localCount": 2788,
+    "remoteCount": 2007,
+    "totalCount": 4461,
+    "bothCount": 334,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T10:00:00.000Z",
+    "localCount": 2789,
+    "remoteCount": 2008,
+    "totalCount": 4464,
+    "bothCount": 334,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T11:00:00.000Z",
+    "localCount": 2790,
+    "remoteCount": 2009,
+    "totalCount": 4465,
+    "bothCount": 334,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T12:00:00.000Z",
+    "localCount": 2782,
+    "remoteCount": 2003,
+    "totalCount": 4451,
+    "bothCount": 334,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T13:00:00.000Z",
+    "localCount": 2791,
+    "remoteCount": 2009,
+    "totalCount": 4467,
+    "bothCount": 334,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T14:00:00.000Z",
+    "localCount": 2790,
+    "remoteCount": 2009,
+    "totalCount": 4466,
+    "bothCount": 334,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T15:00:00.000Z",
+    "localCount": 2791,
+    "remoteCount": 2010,
+    "totalCount": 4467,
+    "bothCount": 335,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T16:00:00.000Z",
+    "localCount": 2792,
+    "remoteCount": 2010,
+    "totalCount": 4468,
+    "bothCount": 335,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T17:00:00.000Z",
+    "localCount": 2796,
+    "remoteCount": 2013,
+    "totalCount": 4476,
+    "bothCount": 335,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-09T18:00:00.000Z",
+    "localCount": 2797,
+    "remoteCount": 2014,
+    "totalCount": 4477,
+    "bothCount": 335,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T19:00:00.000Z",
+    "localCount": 2800,
+    "remoteCount": 2016,
+    "totalCount": 4482,
+    "bothCount": 335,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T20:00:00.000Z",
+    "localCount": 2795,
+    "remoteCount": 2012,
+    "totalCount": 4474,
+    "bothCount": 335,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-09T21:00:00.000Z",
+    "localCount": 2798,
+    "remoteCount": 2015,
+    "totalCount": 4479,
+    "bothCount": 335,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-09T22:00:00.000Z",
+    "localCount": 2804,
+    "remoteCount": 2019,
+    "totalCount": 4488,
+    "bothCount": 335,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-09T23:00:00.000Z",
+    "localCount": 2795,
+    "remoteCount": 2013,
+    "totalCount": 4473,
+    "bothCount": 336,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00.000Z",
+    "localCount": 2801,
+    "remoteCount": 2016,
+    "totalCount": 4481,
+    "bothCount": 336,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T01:00:00.000Z",
+    "localCount": 2802,
+    "remoteCount": 2017,
+    "totalCount": 4483,
+    "bothCount": 336,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T02:00:00.000Z",
+    "localCount": 2797,
+    "remoteCount": 2014,
+    "totalCount": 4476,
+    "bothCount": 336,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T03:00:00.000Z",
+    "localCount": 2798,
+    "remoteCount": 2014,
+    "totalCount": 4476,
+    "bothCount": 336,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T04:00:00.000Z",
+    "localCount": 2803,
+    "remoteCount": 2017,
+    "totalCount": 4485,
+    "bothCount": 336,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T05:00:00.000Z",
+    "localCount": 2809,
+    "remoteCount": 2022,
+    "totalCount": 4496,
+    "bothCount": 336,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T06:00:00.000Z",
+    "localCount": 2805,
+    "remoteCount": 2020,
+    "totalCount": 4489,
+    "bothCount": 336,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T07:00:00.000Z",
+    "localCount": 2810,
+    "remoteCount": 2023,
+    "totalCount": 4497,
+    "bothCount": 337,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T08:00:00.000Z",
+    "localCount": 2811,
+    "remoteCount": 2023,
+    "totalCount": 4499,
+    "bothCount": 337,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-10T09:00:00.000Z",
+    "localCount": 2816,
+    "remoteCount": 2027,
+    "totalCount": 4506,
+    "bothCount": 337,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T10:00:00.000Z",
+    "localCount": 2814,
+    "remoteCount": 2026,
+    "totalCount": 4503,
+    "bothCount": 337,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T11:00:00.000Z",
+    "localCount": 2809,
+    "remoteCount": 2023,
+    "totalCount": 4496,
+    "bothCount": 337,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T12:00:00.000Z",
+    "localCount": 2810,
+    "remoteCount": 2023,
+    "totalCount": 4496,
+    "bothCount": 337,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T13:00:00.000Z",
+    "localCount": 2820,
+    "remoteCount": 2030,
+    "totalCount": 4513,
+    "bothCount": 337,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T14:00:00.000Z",
+    "localCount": 2813,
+    "remoteCount": 2026,
+    "totalCount": 4503,
+    "bothCount": 337,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T15:00:00.000Z",
+    "localCount": 2818,
+    "remoteCount": 2029,
+    "totalCount": 4510,
+    "bothCount": 338,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T16:00:00.000Z",
+    "localCount": 2816,
+    "remoteCount": 2027,
+    "totalCount": 4507,
+    "bothCount": 338,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-10T17:00:00.000Z",
+    "localCount": 2813,
+    "remoteCount": 2026,
+    "totalCount": 4503,
+    "bothCount": 338,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-10T18:00:00.000Z",
+    "localCount": 2822,
+    "remoteCount": 2032,
+    "totalCount": 4517,
+    "bothCount": 338,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T19:00:00.000Z",
+    "localCount": 2826,
+    "remoteCount": 2035,
+    "totalCount": 4523,
+    "bothCount": 338,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-10T20:00:00.000Z",
+    "localCount": 2816,
+    "remoteCount": 2028,
+    "totalCount": 4508,
+    "bothCount": 338,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-10T21:00:00.000Z",
+    "localCount": 2823,
+    "remoteCount": 2033,
+    "totalCount": 4519,
+    "bothCount": 338,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T22:00:00.000Z",
+    "localCount": 2821,
+    "remoteCount": 2032,
+    "totalCount": 4516,
+    "bothCount": 338,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-10T23:00:00.000Z",
+    "localCount": 2819,
+    "remoteCount": 2030,
+    "totalCount": 4513,
+    "bothCount": 338,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-11T00:00:00.000Z",
+    "localCount": 2824,
+    "remoteCount": 2032,
+    "totalCount": 4518,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T01:00:00.000Z",
+    "localCount": 2821,
+    "remoteCount": 2031,
+    "totalCount": 4514,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T02:00:00.000Z",
+    "localCount": 2827,
+    "remoteCount": 2035,
+    "totalCount": 4524,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T03:00:00.000Z",
+    "localCount": 2827,
+    "remoteCount": 2034,
+    "totalCount": 4523,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T04:00:00.000Z",
+    "localCount": 2832,
+    "remoteCount": 2038,
+    "totalCount": 4532,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T05:00:00.000Z",
+    "localCount": 2834,
+    "remoteCount": 2040,
+    "totalCount": 4536,
+    "bothCount": 339,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T06:00:00.000Z",
+    "localCount": 2832,
+    "remoteCount": 2039,
+    "totalCount": 4532,
+    "bothCount": 339,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-11T07:00:00.000Z",
+    "localCount": 2833,
+    "remoteCount": 2040,
+    "totalCount": 4533,
+    "bothCount": 340,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-11T08:00:00.000Z",
+    "localCount": 2834,
+    "remoteCount": 2040,
+    "totalCount": 4536,
+    "bothCount": 340,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-11T09:00:00.000Z",
+    "localCount": 2833,
+    "remoteCount": 2040,
+    "totalCount": 4534,
+    "bothCount": 340,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T10:00:00.000Z",
+    "localCount": 2830,
+    "remoteCount": 2038,
+    "totalCount": 4528,
+    "bothCount": 340,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-11T11:00:00.000Z",
+    "localCount": 2831,
+    "remoteCount": 2039,
+    "totalCount": 4530,
+    "bothCount": 340,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-11T12:00:00.000Z",
+    "localCount": 2843,
+    "remoteCount": 2046,
+    "totalCount": 4550,
+    "bothCount": 340,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T13:00:00.000Z",
+    "localCount": 2839,
+    "remoteCount": 2044,
+    "totalCount": 4544,
+    "bothCount": 340,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T14:00:00.000Z",
+    "localCount": 2838,
+    "remoteCount": 2043,
+    "totalCount": 4542,
+    "bothCount": 340,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T15:00:00.000Z",
+    "localCount": 2839,
+    "remoteCount": 2045,
+    "totalCount": 4544,
+    "bothCount": 341,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T16:00:00.000Z",
+    "localCount": 2845,
+    "remoteCount": 2048,
+    "totalCount": 4553,
+    "bothCount": 341,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T17:00:00.000Z",
+    "localCount": 2839,
+    "remoteCount": 2044,
+    "totalCount": 4544,
+    "bothCount": 341,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-11T18:00:00.000Z",
+    "localCount": 2844,
+    "remoteCount": 2048,
+    "totalCount": 4551,
+    "bothCount": 341,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-11T19:00:00.000Z",
+    "localCount": 2846,
+    "remoteCount": 2050,
+    "totalCount": 4556,
+    "bothCount": 341,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T20:00:00.000Z",
+    "localCount": 2850,
+    "remoteCount": 2052,
+    "totalCount": 4563,
+    "bothCount": 341,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-11T21:00:00.000Z",
+    "localCount": 2846,
+    "remoteCount": 2049,
+    "totalCount": 4555,
+    "bothCount": 341,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T22:00:00.000Z",
+    "localCount": 2851,
+    "remoteCount": 2053,
+    "totalCount": 4564,
+    "bothCount": 341,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-11T23:00:00.000Z",
+    "localCount": 2850,
+    "remoteCount": 2052,
+    "totalCount": 4560,
+    "bothCount": 342,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T00:00:00.000Z",
+    "localCount": 2845,
+    "remoteCount": 2048,
+    "totalCount": 4551,
+    "bothCount": 342,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T01:00:00.000Z",
+    "localCount": 2853,
+    "remoteCount": 2053,
+    "totalCount": 4565,
+    "bothCount": 342,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T02:00:00.000Z",
+    "localCount": 2847,
+    "remoteCount": 2050,
+    "totalCount": 4555,
+    "bothCount": 342,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T03:00:00.000Z",
+    "localCount": 2848,
+    "remoteCount": 2051,
+    "totalCount": 4557,
+    "bothCount": 342,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T04:00:00.000Z",
+    "localCount": 2859,
+    "remoteCount": 2057,
+    "totalCount": 4575,
+    "bothCount": 342,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T05:00:00.000Z",
+    "localCount": 2855,
+    "remoteCount": 2055,
+    "totalCount": 4569,
+    "bothCount": 342,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T06:00:00.000Z",
+    "localCount": 2861,
+    "remoteCount": 2060,
+    "totalCount": 4579,
+    "bothCount": 342,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T07:00:00.000Z",
+    "localCount": 2856,
+    "remoteCount": 2056,
+    "totalCount": 4570,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T08:00:00.000Z",
+    "localCount": 2855,
+    "remoteCount": 2055,
+    "totalCount": 4569,
+    "bothCount": 343,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-12T09:00:00.000Z",
+    "localCount": 2855,
+    "remoteCount": 2056,
+    "totalCount": 4569,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T10:00:00.000Z",
+    "localCount": 2856,
+    "remoteCount": 2056,
+    "totalCount": 4570,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T11:00:00.000Z",
+    "localCount": 2866,
+    "remoteCount": 2063,
+    "totalCount": 4587,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T12:00:00.000Z",
+    "localCount": 2861,
+    "remoteCount": 2060,
+    "totalCount": 4579,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T13:00:00.000Z",
+    "localCount": 2858,
+    "remoteCount": 2058,
+    "totalCount": 4573,
+    "bothCount": 343,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-12T14:00:00.000Z",
+    "localCount": 2863,
+    "remoteCount": 2062,
+    "totalCount": 4583,
+    "bothCount": 343,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T15:00:00.000Z",
+    "localCount": 2870,
+    "remoteCount": 2067,
+    "totalCount": 4594,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T16:00:00.000Z",
+    "localCount": 2862,
+    "remoteCount": 2060,
+    "totalCount": 4580,
+    "bothCount": 344,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-12T17:00:00.000Z",
+    "localCount": 2863,
+    "remoteCount": 2061,
+    "totalCount": 4582,
+    "bothCount": 344,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-12T18:00:00.000Z",
+    "localCount": 2865,
+    "remoteCount": 2063,
+    "totalCount": 4585,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T19:00:00.000Z",
+    "localCount": 2874,
+    "remoteCount": 2070,
+    "totalCount": 4601,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T20:00:00.000Z",
+    "localCount": 2871,
+    "remoteCount": 2067,
+    "totalCount": 4595,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T21:00:00.000Z",
+    "localCount": 2875,
+    "remoteCount": 2070,
+    "totalCount": 4602,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T22:00:00.000Z",
+    "localCount": 2872,
+    "remoteCount": 2068,
+    "totalCount": 4597,
+    "bothCount": 344,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-12T23:00:00.000Z",
+    "localCount": 2880,
+    "remoteCount": 2073,
+    "totalCount": 4609,
+    "bothCount": 345,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T00:00:00.000Z",
+    "localCount": 2879,
+    "remoteCount": 2072,
+    "totalCount": 4606,
+    "bothCount": 345,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T01:00:00.000Z",
+    "localCount": 2874,
+    "remoteCount": 2069,
+    "totalCount": 4599,
+    "bothCount": 345,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T02:00:00.000Z",
+    "localCount": 2876,
+    "remoteCount": 2071,
+    "totalCount": 4603,
+    "bothCount": 345,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T03:00:00.000Z",
+    "localCount": 2883,
+    "remoteCount": 2076,
+    "totalCount": 4614,
+    "bothCount": 345,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T04:00:00.000Z",
+    "localCount": 2880,
+    "remoteCount": 2073,
+    "totalCount": 4609,
+    "bothCount": 345,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T05:00:00.000Z",
+    "localCount": 2877,
+    "remoteCount": 2071,
+    "totalCount": 4604,
+    "bothCount": 345,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T06:00:00.000Z",
+    "localCount": 2880,
+    "remoteCount": 2073,
+    "totalCount": 4608,
+    "bothCount": 345,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T07:00:00.000Z",
+    "localCount": 2877,
+    "remoteCount": 2072,
+    "totalCount": 4604,
+    "bothCount": 346,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T08:00:00.000Z",
+    "localCount": 2885,
+    "remoteCount": 2077,
+    "totalCount": 4618,
+    "bothCount": 346,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-13T09:00:00.000Z",
+    "localCount": 2888,
+    "remoteCount": 2079,
+    "totalCount": 4621,
+    "bothCount": 346,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T10:00:00.000Z",
+    "localCount": 2883,
+    "remoteCount": 2076,
+    "totalCount": 4613,
+    "bothCount": 346,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T11:00:00.000Z",
+    "localCount": 2888,
+    "remoteCount": 2080,
+    "totalCount": 4623,
+    "bothCount": 346,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T12:00:00.000Z",
+    "localCount": 2885,
+    "remoteCount": 2077,
+    "totalCount": 4616,
+    "bothCount": 346,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T13:00:00.000Z",
+    "localCount": 2891,
+    "remoteCount": 2081,
+    "totalCount": 4627,
+    "bothCount": 346,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T14:00:00.000Z",
+    "localCount": 2895,
+    "remoteCount": 2084,
+    "totalCount": 4634,
+    "bothCount": 346,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T15:00:00.000Z",
+    "localCount": 2895,
+    "remoteCount": 2084,
+    "totalCount": 4633,
+    "bothCount": 347,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T16:00:00.000Z",
+    "localCount": 2895,
+    "remoteCount": 2084,
+    "totalCount": 4634,
+    "bothCount": 347,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-13T17:00:00.000Z",
+    "localCount": 2888,
+    "remoteCount": 2080,
+    "totalCount": 4623,
+    "bothCount": 347,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-13T18:00:00.000Z",
+    "localCount": 2894,
+    "remoteCount": 2084,
+    "totalCount": 4631,
+    "bothCount": 347,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T19:00:00.000Z",
+    "localCount": 2892,
+    "remoteCount": 2083,
+    "totalCount": 4628,
+    "bothCount": 347,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-13T20:00:00.000Z",
+    "localCount": 2899,
+    "remoteCount": 2087,
+    "totalCount": 4640,
+    "bothCount": 347,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T21:00:00.000Z",
+    "localCount": 2900,
+    "remoteCount": 2088,
+    "totalCount": 4642,
+    "bothCount": 347,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T22:00:00.000Z",
+    "localCount": 2896,
+    "remoteCount": 2086,
+    "totalCount": 4636,
+    "bothCount": 347,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-13T23:00:00.000Z",
+    "localCount": 2900,
+    "remoteCount": 2088,
+    "totalCount": 4640,
+    "bothCount": 348,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T00:00:00.000Z",
+    "localCount": 2902,
+    "remoteCount": 2089,
+    "totalCount": 4644,
+    "bothCount": 348,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T01:00:00.000Z",
+    "localCount": 2900,
+    "remoteCount": 2087,
+    "totalCount": 4640,
+    "bothCount": 348,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T02:00:00.000Z",
+    "localCount": 2904,
+    "remoteCount": 2091,
+    "totalCount": 4648,
+    "bothCount": 348,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T03:00:00.000Z",
+    "localCount": 2908,
+    "remoteCount": 2094,
+    "totalCount": 4654,
+    "bothCount": 348,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T04:00:00.000Z",
+    "localCount": 2899,
+    "remoteCount": 2087,
+    "totalCount": 4639,
+    "bothCount": 348,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T05:00:00.000Z",
+    "localCount": 2900,
+    "remoteCount": 2088,
+    "totalCount": 4640,
+    "bothCount": 348,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T06:00:00.000Z",
+    "localCount": 2905,
+    "remoteCount": 2092,
+    "totalCount": 4649,
+    "bothCount": 348,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T07:00:00.000Z",
+    "localCount": 2914,
+    "remoteCount": 2098,
+    "totalCount": 4663,
+    "bothCount": 349,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T08:00:00.000Z",
+    "localCount": 2913,
+    "remoteCount": 2097,
+    "totalCount": 4663,
+    "bothCount": 349,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-14T09:00:00.000Z",
+    "localCount": 2904,
+    "remoteCount": 2091,
+    "totalCount": 4647,
+    "bothCount": 349,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T10:00:00.000Z",
+    "localCount": 2908,
+    "remoteCount": 2094,
+    "totalCount": 4654,
+    "bothCount": 349,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T11:00:00.000Z",
+    "localCount": 2909,
+    "remoteCount": 2095,
+    "totalCount": 4656,
+    "bothCount": 349,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T12:00:00.000Z",
+    "localCount": 2916,
+    "remoteCount": 2099,
+    "totalCount": 4666,
+    "bothCount": 349,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T13:00:00.000Z",
+    "localCount": 2918,
+    "remoteCount": 2100,
+    "totalCount": 4670,
+    "bothCount": 349,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T14:00:00.000Z",
+    "localCount": 2918,
+    "remoteCount": 2101,
+    "totalCount": 4671,
+    "bothCount": 349,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T15:00:00.000Z",
+    "localCount": 2916,
+    "remoteCount": 2100,
+    "totalCount": 4666,
+    "bothCount": 350,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T16:00:00.000Z",
+    "localCount": 2917,
+    "remoteCount": 2100,
+    "totalCount": 4669,
+    "bothCount": 350,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-14T17:00:00.000Z",
+    "localCount": 2912,
+    "remoteCount": 2097,
+    "totalCount": 4661,
+    "bothCount": 350,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-14T18:00:00.000Z",
+    "localCount": 2914,
+    "remoteCount": 2099,
+    "totalCount": 4664,
+    "bothCount": 350,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T19:00:00.000Z",
+    "localCount": 2915,
+    "remoteCount": 2099,
+    "totalCount": 4665,
+    "bothCount": 350,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-14T20:00:00.000Z",
+    "localCount": 2922,
+    "remoteCount": 2103,
+    "totalCount": 4677,
+    "bothCount": 350,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-14T21:00:00.000Z",
+    "localCount": 2925,
+    "remoteCount": 2106,
+    "totalCount": 4681,
+    "bothCount": 350,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T22:00:00.000Z",
+    "localCount": 2926,
+    "remoteCount": 2107,
+    "totalCount": 4683,
+    "bothCount": 350,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-14T23:00:00.000Z",
+    "localCount": 2923,
+    "remoteCount": 2105,
+    "totalCount": 4678,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T00:00:00.000Z",
+    "localCount": 2927,
+    "remoteCount": 2106,
+    "totalCount": 4683,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T01:00:00.000Z",
+    "localCount": 2925,
+    "remoteCount": 2106,
+    "totalCount": 4681,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T02:00:00.000Z",
+    "localCount": 2923,
+    "remoteCount": 2105,
+    "totalCount": 4678,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T03:00:00.000Z",
+    "localCount": 2929,
+    "remoteCount": 2109,
+    "totalCount": 4686,
+    "bothCount": 351,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-15T04:00:00.000Z",
+    "localCount": 2925,
+    "remoteCount": 2106,
+    "totalCount": 4681,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T05:00:00.000Z",
+    "localCount": 2928,
+    "remoteCount": 2108,
+    "totalCount": 4686,
+    "bothCount": 351,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T06:00:00.000Z",
+    "localCount": 2933,
+    "remoteCount": 2112,
+    "totalCount": 4694,
+    "bothCount": 351,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-15T07:00:00.000Z",
+    "localCount": 2927,
+    "remoteCount": 2108,
+    "totalCount": 4683,
+    "bothCount": 352,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-15T08:00:00.000Z",
+    "localCount": 2937,
+    "remoteCount": 2114,
+    "totalCount": 4700,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T09:00:00.000Z",
+    "localCount": 2936,
+    "remoteCount": 2113,
+    "totalCount": 4698,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T10:00:00.000Z",
+    "localCount": 2936,
+    "remoteCount": 2114,
+    "totalCount": 4699,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T11:00:00.000Z",
+    "localCount": 2941,
+    "remoteCount": 2117,
+    "totalCount": 4707,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T12:00:00.000Z",
+    "localCount": 2936,
+    "remoteCount": 2114,
+    "totalCount": 4699,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T13:00:00.000Z",
+    "localCount": 2934,
+    "remoteCount": 2113,
+    "totalCount": 4696,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T14:00:00.000Z",
+    "localCount": 2935,
+    "remoteCount": 2113,
+    "totalCount": 4697,
+    "bothCount": 352,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T15:00:00.000Z",
+    "localCount": 2943,
+    "remoteCount": 2119,
+    "totalCount": 4710,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T16:00:00.000Z",
+    "localCount": 2936,
+    "remoteCount": 2114,
+    "totalCount": 4698,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T17:00:00.000Z",
+    "localCount": 2938,
+    "remoteCount": 2116,
+    "totalCount": 4703,
+    "bothCount": 353,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-15T18:00:00.000Z",
+    "localCount": 2948,
+    "remoteCount": 2122,
+    "totalCount": 4718,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T19:00:00.000Z",
+    "localCount": 2943,
+    "remoteCount": 2119,
+    "totalCount": 4710,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T20:00:00.000Z",
+    "localCount": 2950,
+    "remoteCount": 2123,
+    "totalCount": 4722,
+    "bothCount": 353,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-15T21:00:00.000Z",
+    "localCount": 2946,
+    "remoteCount": 2121,
+    "totalCount": 4715,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T22:00:00.000Z",
+    "localCount": 2952,
+    "remoteCount": 2126,
+    "totalCount": 4726,
+    "bothCount": 353,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-15T23:00:00.000Z",
+    "localCount": 2947,
+    "remoteCount": 2122,
+    "totalCount": 4716,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T00:00:00.000Z",
+    "localCount": 2949,
+    "remoteCount": 2122,
+    "totalCount": 4718,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T01:00:00.000Z",
+    "localCount": 2950,
+    "remoteCount": 2123,
+    "totalCount": 4720,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T02:00:00.000Z",
+    "localCount": 2954,
+    "remoteCount": 2127,
+    "totalCount": 4728,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T03:00:00.000Z",
+    "localCount": 2959,
+    "remoteCount": 2130,
+    "totalCount": 4735,
+    "bothCount": 354,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-16T04:00:00.000Z",
+    "localCount": 2955,
+    "remoteCount": 2127,
+    "totalCount": 4729,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T05:00:00.000Z",
+    "localCount": 2950,
+    "remoteCount": 2124,
+    "totalCount": 4721,
+    "bothCount": 354,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T06:00:00.000Z",
+    "localCount": 2959,
+    "remoteCount": 2130,
+    "totalCount": 4735,
+    "bothCount": 354,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-16T07:00:00.000Z",
+    "localCount": 2960,
+    "remoteCount": 2131,
+    "totalCount": 4737,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T08:00:00.000Z",
+    "localCount": 2957,
+    "remoteCount": 2128,
+    "totalCount": 4732,
+    "bothCount": 355,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-16T09:00:00.000Z",
+    "localCount": 2957,
+    "remoteCount": 2129,
+    "totalCount": 4732,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T10:00:00.000Z",
+    "localCount": 2967,
+    "remoteCount": 2136,
+    "totalCount": 4748,
+    "bothCount": 355,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-16T11:00:00.000Z",
+    "localCount": 2960,
+    "remoteCount": 2132,
+    "totalCount": 4738,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T12:00:00.000Z",
+    "localCount": 2962,
+    "remoteCount": 2132,
+    "totalCount": 4740,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T13:00:00.000Z",
+    "localCount": 2960,
+    "remoteCount": 2131,
+    "totalCount": 4737,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T14:00:00.000Z",
+    "localCount": 2964,
+    "remoteCount": 2134,
+    "totalCount": 4744,
+    "bothCount": 355,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T15:00:00.000Z",
+    "localCount": 2969,
+    "remoteCount": 2138,
+    "totalCount": 4751,
+    "bothCount": 356,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-16T16:00:00.000Z",
+    "localCount": 2968,
+    "remoteCount": 2136,
+    "totalCount": 4750,
+    "bothCount": 356,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-16T17:00:00.000Z",
+    "localCount": 2962,
+    "remoteCount": 2133,
+    "totalCount": 4740,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T18:00:00.000Z",
+    "localCount": 2966,
+    "remoteCount": 2136,
+    "totalCount": 4747,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T19:00:00.000Z",
+    "localCount": 2966,
+    "remoteCount": 2136,
+    "totalCount": 4747,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T20:00:00.000Z",
+    "localCount": 2968,
+    "remoteCount": 2137,
+    "totalCount": 4750,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T21:00:00.000Z",
+    "localCount": 2973,
+    "remoteCount": 2140,
+    "totalCount": 4758,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T22:00:00.000Z",
+    "localCount": 2973,
+    "remoteCount": 2141,
+    "totalCount": 4759,
+    "bothCount": 356,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-16T23:00:00.000Z",
+    "localCount": 2971,
+    "remoteCount": 2139,
+    "totalCount": 4754,
+    "bothCount": 357,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T00:00:00.000Z",
+    "localCount": 2976,
+    "remoteCount": 2142,
+    "totalCount": 4762,
+    "bothCount": 357,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T01:00:00.000Z",
+    "localCount": 2978,
+    "remoteCount": 2144,
+    "totalCount": 4766,
+    "bothCount": 357,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T02:00:00.000Z",
+    "localCount": 2981,
+    "remoteCount": 2146,
+    "totalCount": 4771,
+    "bothCount": 357,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T03:00:00.000Z",
+    "localCount": 2982,
+    "remoteCount": 2147,
+    "totalCount": 4771,
+    "bothCount": 357,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T04:00:00.000Z",
+    "localCount": 2980,
+    "remoteCount": 2145,
+    "totalCount": 4768,
+    "bothCount": 357,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T05:00:00.000Z",
+    "localCount": 2987,
+    "remoteCount": 2150,
+    "totalCount": 4780,
+    "bothCount": 357,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T06:00:00.000Z",
+    "localCount": 2980,
+    "remoteCount": 2145,
+    "totalCount": 4768,
+    "bothCount": 357,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T07:00:00.000Z",
+    "localCount": 2983,
+    "remoteCount": 2148,
+    "totalCount": 4773,
+    "bothCount": 358,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T08:00:00.000Z",
+    "localCount": 2984,
+    "remoteCount": 2148,
+    "totalCount": 4775,
+    "bothCount": 358,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T09:00:00.000Z",
+    "localCount": 2987,
+    "remoteCount": 2150,
+    "totalCount": 4780,
+    "bothCount": 358,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T10:00:00.000Z",
+    "localCount": 2990,
+    "remoteCount": 2153,
+    "totalCount": 4786,
+    "bothCount": 358,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T11:00:00.000Z",
+    "localCount": 2990,
+    "remoteCount": 2153,
+    "totalCount": 4785,
+    "bothCount": 358,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T12:00:00.000Z",
+    "localCount": 2994,
+    "remoteCount": 2155,
+    "totalCount": 4791,
+    "bothCount": 358,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T13:00:00.000Z",
+    "localCount": 2990,
+    "remoteCount": 2153,
+    "totalCount": 4786,
+    "bothCount": 358,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T14:00:00.000Z",
+    "localCount": 2992,
+    "remoteCount": 2154,
+    "totalCount": 4789,
+    "bothCount": 358,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T15:00:00.000Z",
+    "localCount": 2985,
+    "remoteCount": 2150,
+    "totalCount": 4776,
+    "bothCount": 359,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T16:00:00.000Z",
+    "localCount": 2986,
+    "remoteCount": 2150,
+    "totalCount": 4779,
+    "bothCount": 359,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-17T17:00:00.000Z",
+    "localCount": 2994,
+    "remoteCount": 2156,
+    "totalCount": 4793,
+    "bothCount": 359,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-17T18:00:00.000Z",
+    "localCount": 2988,
+    "remoteCount": 2152,
+    "totalCount": 4781,
+    "bothCount": 359,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-17T19:00:00.000Z",
+    "localCount": 2993,
+    "remoteCount": 2155,
+    "totalCount": 4790,
+    "bothCount": 359,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T20:00:00.000Z",
+    "localCount": 3000,
+    "remoteCount": 2160,
+    "totalCount": 4803,
+    "bothCount": 359,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-17T21:00:00.000Z",
+    "localCount": 3001,
+    "remoteCount": 2161,
+    "totalCount": 4804,
+    "bothCount": 359,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T22:00:00.000Z",
+    "localCount": 3002,
+    "remoteCount": 2161,
+    "totalCount": 4805,
+    "bothCount": 359,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-17T23:00:00.000Z",
+    "localCount": 2996,
+    "remoteCount": 2157,
+    "totalCount": 4794,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T00:00:00.000Z",
+    "localCount": 3000,
+    "remoteCount": 2159,
+    "totalCount": 4800,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T01:00:00.000Z",
+    "localCount": 3007,
+    "remoteCount": 2164,
+    "totalCount": 4812,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T02:00:00.000Z",
+    "localCount": 3004,
+    "remoteCount": 2163,
+    "totalCount": 4808,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T03:00:00.000Z",
+    "localCount": 3004,
+    "remoteCount": 2163,
+    "totalCount": 4806,
+    "bothCount": 360,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-18T04:00:00.000Z",
+    "localCount": 3000,
+    "remoteCount": 2159,
+    "totalCount": 4800,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T05:00:00.000Z",
+    "localCount": 3009,
+    "remoteCount": 2166,
+    "totalCount": 4816,
+    "bothCount": 360,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T06:00:00.000Z",
+    "localCount": 3007,
+    "remoteCount": 2165,
+    "totalCount": 4811,
+    "bothCount": 360,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-18T07:00:00.000Z",
+    "localCount": 3008,
+    "remoteCount": 2166,
+    "totalCount": 4813,
+    "bothCount": 361,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-18T08:00:00.000Z",
+    "localCount": 3013,
+    "remoteCount": 2169,
+    "totalCount": 4823,
+    "bothCount": 361,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-18T09:00:00.000Z",
+    "localCount": 3004,
+    "remoteCount": 2163,
+    "totalCount": 4806,
+    "bothCount": 361,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-18T10:00:00.000Z",
+    "localCount": 3008,
+    "remoteCount": 2166,
+    "totalCount": 4813,
+    "bothCount": 361,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-18T11:00:00.000Z",
+    "localCount": 3007,
+    "remoteCount": 2165,
+    "totalCount": 4812,
+    "bothCount": 361,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T12:00:00.000Z",
+    "localCount": 3008,
+    "remoteCount": 2165,
+    "totalCount": 4813,
+    "bothCount": 361,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T13:00:00.000Z",
+    "localCount": 3009,
+    "remoteCount": 2167,
+    "totalCount": 4816,
+    "bothCount": 361,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T14:00:00.000Z",
+    "localCount": 3017,
+    "remoteCount": 2172,
+    "totalCount": 4829,
+    "bothCount": 361,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T15:00:00.000Z",
+    "localCount": 3013,
+    "remoteCount": 2170,
+    "totalCount": 4822,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T16:00:00.000Z",
+    "localCount": 3023,
+    "remoteCount": 2176,
+    "totalCount": 4838,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T17:00:00.000Z",
+    "localCount": 3023,
+    "remoteCount": 2176,
+    "totalCount": 4839,
+    "bothCount": 362,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-18T18:00:00.000Z",
+    "localCount": 3015,
+    "remoteCount": 2171,
+    "totalCount": 4825,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T19:00:00.000Z",
+    "localCount": 3015,
+    "remoteCount": 2171,
+    "totalCount": 4825,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T20:00:00.000Z",
+    "localCount": 3018,
+    "remoteCount": 2173,
+    "totalCount": 4830,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T21:00:00.000Z",
+    "localCount": 3020,
+    "remoteCount": 2174,
+    "totalCount": 4833,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T22:00:00.000Z",
+    "localCount": 3020,
+    "remoteCount": 2175,
+    "totalCount": 4834,
+    "bothCount": 362,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-18T23:00:00.000Z",
+    "localCount": 3027,
+    "remoteCount": 2179,
+    "totalCount": 4844,
+    "bothCount": 363,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T00:00:00.000Z",
+    "localCount": 3027,
+    "remoteCount": 2179,
+    "totalCount": 4844,
+    "bothCount": 363,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T01:00:00.000Z",
+    "localCount": 3025,
+    "remoteCount": 2178,
+    "totalCount": 4841,
+    "bothCount": 363,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T02:00:00.000Z",
+    "localCount": 3025,
+    "remoteCount": 2178,
+    "totalCount": 4840,
+    "bothCount": 363,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-19T03:00:00.000Z",
+    "localCount": 3028,
+    "remoteCount": 2180,
+    "totalCount": 4845,
+    "bothCount": 363,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-19T04:00:00.000Z",
+    "localCount": 3030,
+    "remoteCount": 2181,
+    "totalCount": 4849,
+    "bothCount": 363,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T05:00:00.000Z",
+    "localCount": 3035,
+    "remoteCount": 2184,
+    "totalCount": 4857,
+    "bothCount": 363,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T06:00:00.000Z",
+    "localCount": 3026,
+    "remoteCount": 2179,
+    "totalCount": 4841,
+    "bothCount": 363,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-19T07:00:00.000Z",
+    "localCount": 3029,
+    "remoteCount": 2181,
+    "totalCount": 4847,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T08:00:00.000Z",
+    "localCount": 3028,
+    "remoteCount": 2180,
+    "totalCount": 4845,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T09:00:00.000Z",
+    "localCount": 3030,
+    "remoteCount": 2181,
+    "totalCount": 4848,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T10:00:00.000Z",
+    "localCount": 3031,
+    "remoteCount": 2183,
+    "totalCount": 4851,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T11:00:00.000Z",
+    "localCount": 3040,
+    "remoteCount": 2189,
+    "totalCount": 4865,
+    "bothCount": 364,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-19T12:00:00.000Z",
+    "localCount": 3032,
+    "remoteCount": 2183,
+    "totalCount": 4851,
+    "bothCount": 364,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-19T13:00:00.000Z",
+    "localCount": 3044,
+    "remoteCount": 2191,
+    "totalCount": 4872,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T14:00:00.000Z",
+    "localCount": 3040,
+    "remoteCount": 2189,
+    "totalCount": 4866,
+    "bothCount": 364,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T15:00:00.000Z",
+    "localCount": 3041,
+    "remoteCount": 2190,
+    "totalCount": 4867,
+    "bothCount": 365,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T16:00:00.000Z",
+    "localCount": 3037,
+    "remoteCount": 2186,
+    "totalCount": 4860,
+    "bothCount": 365,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-19T17:00:00.000Z",
+    "localCount": 3044,
+    "remoteCount": 2191,
+    "totalCount": 4872,
+    "bothCount": 365,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-19T18:00:00.000Z",
+    "localCount": 3049,
+    "remoteCount": 2195,
+    "totalCount": 4880,
+    "bothCount": 365,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T19:00:00.000Z",
+    "localCount": 3050,
+    "remoteCount": 2196,
+    "totalCount": 4882,
+    "bothCount": 365,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T20:00:00.000Z",
+    "localCount": 3049,
+    "remoteCount": 2195,
+    "totalCount": 4881,
+    "bothCount": 365,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-19T21:00:00.000Z",
+    "localCount": 3050,
+    "remoteCount": 2196,
+    "totalCount": 4882,
+    "bothCount": 365,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T22:00:00.000Z",
+    "localCount": 3044,
+    "remoteCount": 2192,
+    "totalCount": 4872,
+    "bothCount": 365,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-19T23:00:00.000Z",
+    "localCount": 3050,
+    "remoteCount": 2196,
+    "totalCount": 4881,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T00:00:00.000Z",
+    "localCount": 3049,
+    "remoteCount": 2195,
+    "totalCount": 4879,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T01:00:00.000Z",
+    "localCount": 3054,
+    "remoteCount": 2198,
+    "totalCount": 4887,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T02:00:00.000Z",
+    "localCount": 3053,
+    "remoteCount": 2198,
+    "totalCount": 4886,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T03:00:00.000Z",
+    "localCount": 3058,
+    "remoteCount": 2201,
+    "totalCount": 4893,
+    "bothCount": 366,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-20T04:00:00.000Z",
+    "localCount": 3060,
+    "remoteCount": 2202,
+    "totalCount": 4897,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T05:00:00.000Z",
+    "localCount": 3052,
+    "remoteCount": 2197,
+    "totalCount": 4884,
+    "bothCount": 366,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T06:00:00.000Z",
+    "localCount": 3057,
+    "remoteCount": 2201,
+    "totalCount": 4891,
+    "bothCount": 366,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-20T07:00:00.000Z",
+    "localCount": 3059,
+    "remoteCount": 2202,
+    "totalCount": 4895,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T08:00:00.000Z",
+    "localCount": 3062,
+    "remoteCount": 2204,
+    "totalCount": 4900,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T09:00:00.000Z",
+    "localCount": 3063,
+    "remoteCount": 2205,
+    "totalCount": 4902,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T10:00:00.000Z",
+    "localCount": 3064,
+    "remoteCount": 2206,
+    "totalCount": 4904,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T11:00:00.000Z",
+    "localCount": 3058,
+    "remoteCount": 2202,
+    "totalCount": 4894,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T12:00:00.000Z",
+    "localCount": 3058,
+    "remoteCount": 2201,
+    "totalCount": 4893,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T13:00:00.000Z",
+    "localCount": 3062,
+    "remoteCount": 2205,
+    "totalCount": 4901,
+    "bothCount": 367,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T14:00:00.000Z",
+    "localCount": 3068,
+    "remoteCount": 2209,
+    "totalCount": 4910,
+    "bothCount": 367,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-20T15:00:00.000Z",
+    "localCount": 3070,
+    "remoteCount": 2211,
+    "totalCount": 4914,
+    "bothCount": 368,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T16:00:00.000Z",
+    "localCount": 3068,
+    "remoteCount": 2209,
+    "totalCount": 4911,
+    "bothCount": 368,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-20T17:00:00.000Z",
+    "localCount": 3069,
+    "remoteCount": 2210,
+    "totalCount": 4913,
+    "bothCount": 368,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-20T18:00:00.000Z",
+    "localCount": 3067,
+    "remoteCount": 2208,
+    "totalCount": 4908,
+    "bothCount": 368,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T19:00:00.000Z",
+    "localCount": 3074,
+    "remoteCount": 2213,
+    "totalCount": 4920,
+    "bothCount": 368,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-20T20:00:00.000Z",
+    "localCount": 3066,
+    "remoteCount": 2208,
+    "totalCount": 4908,
+    "bothCount": 368,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-20T21:00:00.000Z",
+    "localCount": 3069,
+    "remoteCount": 2210,
+    "totalCount": 4911,
+    "bothCount": 368,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-20T22:00:00.000Z",
+    "localCount": 3073,
+    "remoteCount": 2213,
+    "totalCount": 4918,
+    "bothCount": 368,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-20T23:00:00.000Z",
+    "localCount": 3071,
+    "remoteCount": 2211,
+    "totalCount": 4914,
+    "bothCount": 369,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T00:00:00.000Z",
+    "localCount": 3082,
+    "remoteCount": 2218,
+    "totalCount": 4931,
+    "bothCount": 369,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T01:00:00.000Z",
+    "localCount": 3072,
+    "remoteCount": 2212,
+    "totalCount": 4916,
+    "bothCount": 369,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T02:00:00.000Z",
+    "localCount": 3082,
+    "remoteCount": 2218,
+    "totalCount": 4932,
+    "bothCount": 369,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T03:00:00.000Z",
+    "localCount": 3077,
+    "remoteCount": 2216,
+    "totalCount": 4924,
+    "bothCount": 369,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T04:00:00.000Z",
+    "localCount": 3080,
+    "remoteCount": 2217,
+    "totalCount": 4928,
+    "bothCount": 369,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T05:00:00.000Z",
+    "localCount": 3082,
+    "remoteCount": 2218,
+    "totalCount": 4932,
+    "bothCount": 369,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T06:00:00.000Z",
+    "localCount": 3083,
+    "remoteCount": 2219,
+    "totalCount": 4933,
+    "bothCount": 369,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T07:00:00.000Z",
+    "localCount": 3086,
+    "remoteCount": 2222,
+    "totalCount": 4939,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T08:00:00.000Z",
+    "localCount": 3079,
+    "remoteCount": 2217,
+    "totalCount": 4928,
+    "bothCount": 370,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-21T09:00:00.000Z",
+    "localCount": 3085,
+    "remoteCount": 2221,
+    "totalCount": 4936,
+    "bothCount": 370,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T10:00:00.000Z",
+    "localCount": 3085,
+    "remoteCount": 2221,
+    "totalCount": 4937,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T11:00:00.000Z",
+    "localCount": 3092,
+    "remoteCount": 2226,
+    "totalCount": 4949,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T12:00:00.000Z",
+    "localCount": 3091,
+    "remoteCount": 2225,
+    "totalCount": 4947,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T13:00:00.000Z",
+    "localCount": 3091,
+    "remoteCount": 2225,
+    "totalCount": 4947,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T14:00:00.000Z",
+    "localCount": 3087,
+    "remoteCount": 2223,
+    "totalCount": 4941,
+    "bothCount": 370,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T15:00:00.000Z",
+    "localCount": 3085,
+    "remoteCount": 2222,
+    "totalCount": 4936,
+    "bothCount": 371,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-21T16:00:00.000Z",
+    "localCount": 3096,
+    "remoteCount": 2229,
+    "totalCount": 4956,
+    "bothCount": 371,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-21T17:00:00.000Z",
+    "localCount": 3091,
+    "remoteCount": 2225,
+    "totalCount": 4947,
+    "bothCount": 371,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-21T18:00:00.000Z",
+    "localCount": 3092,
+    "remoteCount": 2227,
+    "totalCount": 4949,
+    "bothCount": 371,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T19:00:00.000Z",
+    "localCount": 3090,
+    "remoteCount": 2226,
+    "totalCount": 4946,
+    "bothCount": 371,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T20:00:00.000Z",
+    "localCount": 3099,
+    "remoteCount": 2231,
+    "totalCount": 4961,
+    "bothCount": 371,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-21T21:00:00.000Z",
+    "localCount": 3096,
+    "remoteCount": 2229,
+    "totalCount": 4955,
+    "bothCount": 371,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T22:00:00.000Z",
+    "localCount": 3092,
+    "remoteCount": 2227,
+    "totalCount": 4949,
+    "bothCount": 371,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-21T23:00:00.000Z",
+    "localCount": 3100,
+    "remoteCount": 2232,
+    "totalCount": 4961,
+    "bothCount": 372,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T00:00:00.000Z",
+    "localCount": 3100,
+    "remoteCount": 2231,
+    "totalCount": 4960,
+    "bothCount": 372,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T01:00:00.000Z",
+    "localCount": 3105,
+    "remoteCount": 2235,
+    "totalCount": 4969,
+    "bothCount": 372,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T02:00:00.000Z",
+    "localCount": 3098,
+    "remoteCount": 2230,
+    "totalCount": 4957,
+    "bothCount": 372,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T03:00:00.000Z",
+    "localCount": 3107,
+    "remoteCount": 2237,
+    "totalCount": 4971,
+    "bothCount": 372,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T04:00:00.000Z",
+    "localCount": 3102,
+    "remoteCount": 2233,
+    "totalCount": 4964,
+    "bothCount": 372,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T05:00:00.000Z",
+    "localCount": 3106,
+    "remoteCount": 2236,
+    "totalCount": 4970,
+    "bothCount": 372,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T06:00:00.000Z",
+    "localCount": 3104,
+    "remoteCount": 2235,
+    "totalCount": 4966,
+    "bothCount": 372,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T07:00:00.000Z",
+    "localCount": 3105,
+    "remoteCount": 2236,
+    "totalCount": 4969,
+    "bothCount": 373,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T08:00:00.000Z",
+    "localCount": 3106,
+    "remoteCount": 2236,
+    "totalCount": 4970,
+    "bothCount": 373,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T09:00:00.000Z",
+    "localCount": 3116,
+    "remoteCount": 2243,
+    "totalCount": 4986,
+    "bothCount": 373,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T10:00:00.000Z",
+    "localCount": 3111,
+    "remoteCount": 2240,
+    "totalCount": 4979,
+    "bothCount": 373,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T11:00:00.000Z",
+    "localCount": 3113,
+    "remoteCount": 2242,
+    "totalCount": 4983,
+    "bothCount": 373,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T12:00:00.000Z",
+    "localCount": 3113,
+    "remoteCount": 2241,
+    "totalCount": 4981,
+    "bothCount": 373,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T13:00:00.000Z",
+    "localCount": 3108,
+    "remoteCount": 2238,
+    "totalCount": 4974,
+    "bothCount": 373,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T14:00:00.000Z",
+    "localCount": 3109,
+    "remoteCount": 2239,
+    "totalCount": 4975,
+    "bothCount": 373,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-22T15:00:00.000Z",
+    "localCount": 3113,
+    "remoteCount": 2242,
+    "totalCount": 4982,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T16:00:00.000Z",
+    "localCount": 3117,
+    "remoteCount": 2244,
+    "totalCount": 4988,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T17:00:00.000Z",
+    "localCount": 3112,
+    "remoteCount": 2241,
+    "totalCount": 4980,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T18:00:00.000Z",
+    "localCount": 3123,
+    "remoteCount": 2249,
+    "totalCount": 4999,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T19:00:00.000Z",
+    "localCount": 3123,
+    "remoteCount": 2249,
+    "totalCount": 4999,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T20:00:00.000Z",
+    "localCount": 3118,
+    "remoteCount": 2245,
+    "totalCount": 4991,
+    "bothCount": 374,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-22T21:00:00.000Z",
+    "localCount": 3117,
+    "remoteCount": 2245,
+    "totalCount": 4989,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T22:00:00.000Z",
+    "localCount": 3128,
+    "remoteCount": 2252,
+    "totalCount": 5007,
+    "bothCount": 374,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-22T23:00:00.000Z",
+    "localCount": 3122,
+    "remoteCount": 2248,
+    "totalCount": 4996,
+    "bothCount": 375,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T00:00:00.000Z",
+    "localCount": 3120,
+    "remoteCount": 2246,
+    "totalCount": 4991,
+    "bothCount": 375,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T01:00:00.000Z",
+    "localCount": 3131,
+    "remoteCount": 2253,
+    "totalCount": 5010,
+    "bothCount": 375,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T02:00:00.000Z",
+    "localCount": 3128,
+    "remoteCount": 2252,
+    "totalCount": 5006,
+    "bothCount": 375,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T03:00:00.000Z",
+    "localCount": 3132,
+    "remoteCount": 2255,
+    "totalCount": 5012,
+    "bothCount": 375,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T04:00:00.000Z",
+    "localCount": 3133,
+    "remoteCount": 2255,
+    "totalCount": 5013,
+    "bothCount": 375,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T05:00:00.000Z",
+    "localCount": 3125,
+    "remoteCount": 2250,
+    "totalCount": 5001,
+    "bothCount": 375,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T06:00:00.000Z",
+    "localCount": 3133,
+    "remoteCount": 2256,
+    "totalCount": 5014,
+    "bothCount": 375,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T07:00:00.000Z",
+    "localCount": 3139,
+    "remoteCount": 2260,
+    "totalCount": 5023,
+    "bothCount": 376,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T08:00:00.000Z",
+    "localCount": 3132,
+    "remoteCount": 2254,
+    "totalCount": 5012,
+    "bothCount": 376,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-23T09:00:00.000Z",
+    "localCount": 3139,
+    "remoteCount": 2260,
+    "totalCount": 5024,
+    "bothCount": 376,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T10:00:00.000Z",
+    "localCount": 3140,
+    "remoteCount": 2261,
+    "totalCount": 5026,
+    "bothCount": 376,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T11:00:00.000Z",
+    "localCount": 3135,
+    "remoteCount": 2257,
+    "totalCount": 5017,
+    "bothCount": 376,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T12:00:00.000Z",
+    "localCount": 3132,
+    "remoteCount": 2255,
+    "totalCount": 5011,
+    "bothCount": 376,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T13:00:00.000Z",
+    "localCount": 3141,
+    "remoteCount": 2261,
+    "totalCount": 5027,
+    "bothCount": 376,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T14:00:00.000Z",
+    "localCount": 3137,
+    "remoteCount": 2259,
+    "totalCount": 5021,
+    "bothCount": 376,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T15:00:00.000Z",
+    "localCount": 3142,
+    "remoteCount": 2263,
+    "totalCount": 5029,
+    "bothCount": 377,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T16:00:00.000Z",
+    "localCount": 3148,
+    "remoteCount": 2266,
+    "totalCount": 5038,
+    "bothCount": 377,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T17:00:00.000Z",
+    "localCount": 3145,
+    "remoteCount": 2264,
+    "totalCount": 5034,
+    "bothCount": 377,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-23T18:00:00.000Z",
+    "localCount": 3142,
+    "remoteCount": 2262,
+    "totalCount": 5028,
+    "bothCount": 377,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T19:00:00.000Z",
+    "localCount": 3149,
+    "remoteCount": 2267,
+    "totalCount": 5040,
+    "bothCount": 377,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T20:00:00.000Z",
+    "localCount": 3150,
+    "remoteCount": 2267,
+    "totalCount": 5042,
+    "bothCount": 377,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-23T21:00:00.000Z",
+    "localCount": 3150,
+    "remoteCount": 2268,
+    "totalCount": 5041,
+    "bothCount": 377,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-23T22:00:00.000Z",
+    "localCount": 3152,
+    "remoteCount": 2269,
+    "totalCount": 5045,
+    "bothCount": 377,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-23T23:00:00.000Z",
+    "localCount": 3155,
+    "remoteCount": 2271,
+    "totalCount": 5049,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T00:00:00.000Z",
+    "localCount": 3145,
+    "remoteCount": 2264,
+    "totalCount": 5032,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T01:00:00.000Z",
+    "localCount": 3148,
+    "remoteCount": 2266,
+    "totalCount": 5037,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T02:00:00.000Z",
+    "localCount": 3158,
+    "remoteCount": 2273,
+    "totalCount": 5054,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T03:00:00.000Z",
+    "localCount": 3158,
+    "remoteCount": 2274,
+    "totalCount": 5054,
+    "bothCount": 378,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-24T04:00:00.000Z",
+    "localCount": 3159,
+    "remoteCount": 2273,
+    "totalCount": 5055,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T05:00:00.000Z",
+    "localCount": 3154,
+    "remoteCount": 2271,
+    "totalCount": 5048,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T06:00:00.000Z",
+    "localCount": 3158,
+    "remoteCount": 2274,
+    "totalCount": 5054,
+    "bothCount": 378,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-24T07:00:00.000Z",
+    "localCount": 3161,
+    "remoteCount": 2275,
+    "totalCount": 5059,
+    "bothCount": 378,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T08:00:00.000Z",
+    "localCount": 3153,
+    "remoteCount": 2270,
+    "totalCount": 5045,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T09:00:00.000Z",
+    "localCount": 3159,
+    "remoteCount": 2274,
+    "totalCount": 5055,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T10:00:00.000Z",
+    "localCount": 3159,
+    "remoteCount": 2275,
+    "totalCount": 5056,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T11:00:00.000Z",
+    "localCount": 3164,
+    "remoteCount": 2278,
+    "totalCount": 5064,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T12:00:00.000Z",
+    "localCount": 3164,
+    "remoteCount": 2278,
+    "totalCount": 5064,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T13:00:00.000Z",
+    "localCount": 3159,
+    "remoteCount": 2275,
+    "totalCount": 5056,
+    "bothCount": 379,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T14:00:00.000Z",
+    "localCount": 3169,
+    "remoteCount": 2281,
+    "totalCount": 5071,
+    "bothCount": 379,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-24T15:00:00.000Z",
+    "localCount": 3167,
+    "remoteCount": 2281,
+    "totalCount": 5069,
+    "bothCount": 380,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T16:00:00.000Z",
+    "localCount": 3163,
+    "remoteCount": 2277,
+    "totalCount": 5062,
+    "bothCount": 380,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-24T17:00:00.000Z",
+    "localCount": 3165,
+    "remoteCount": 2279,
+    "totalCount": 5066,
+    "bothCount": 380,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-24T18:00:00.000Z",
+    "localCount": 3164,
+    "remoteCount": 2279,
+    "totalCount": 5064,
+    "bothCount": 380,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T19:00:00.000Z",
+    "localCount": 3164,
+    "remoteCount": 2279,
+    "totalCount": 5063,
+    "bothCount": 380,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-24T20:00:00.000Z",
+    "localCount": 3168,
+    "remoteCount": 2281,
+    "totalCount": 5071,
+    "bothCount": 380,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-24T21:00:00.000Z",
+    "localCount": 3169,
+    "remoteCount": 2282,
+    "totalCount": 5071,
+    "bothCount": 380,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-24T22:00:00.000Z",
+    "localCount": 3168,
+    "remoteCount": 2282,
+    "totalCount": 5071,
+    "bothCount": 380,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-24T23:00:00.000Z",
+    "localCount": 3173,
+    "remoteCount": 2284,
+    "totalCount": 5077,
+    "bothCount": 381,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T00:00:00.000Z",
+    "localCount": 3178,
+    "remoteCount": 2287,
+    "totalCount": 5085,
+    "bothCount": 381,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T01:00:00.000Z",
+    "localCount": 3180,
+    "remoteCount": 2289,
+    "totalCount": 5089,
+    "bothCount": 381,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T02:00:00.000Z",
+    "localCount": 3178,
+    "remoteCount": 2288,
+    "totalCount": 5086,
+    "bothCount": 381,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T03:00:00.000Z",
+    "localCount": 3177,
+    "remoteCount": 2288,
+    "totalCount": 5084,
+    "bothCount": 381,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-25T04:00:00.000Z",
+    "localCount": 3183,
+    "remoteCount": 2291,
+    "totalCount": 5094,
+    "bothCount": 381,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T05:00:00.000Z",
+    "localCount": 3178,
+    "remoteCount": 2288,
+    "totalCount": 5085,
+    "bothCount": 381,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-25T06:00:00.000Z",
+    "localCount": 3179,
+    "remoteCount": 2289,
+    "totalCount": 5086,
+    "bothCount": 381,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-25T07:00:00.000Z",
+    "localCount": 3188,
+    "remoteCount": 2295,
+    "totalCount": 5102,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T08:00:00.000Z",
+    "localCount": 3185,
+    "remoteCount": 2293,
+    "totalCount": 5098,
+    "bothCount": 382,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-25T09:00:00.000Z",
+    "localCount": 3179,
+    "remoteCount": 2289,
+    "totalCount": 5087,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T10:00:00.000Z",
+    "localCount": 3189,
+    "remoteCount": 2296,
+    "totalCount": 5103,
+    "bothCount": 382,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-25T11:00:00.000Z",
+    "localCount": 3188,
+    "remoteCount": 2295,
+    "totalCount": 5102,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T12:00:00.000Z",
+    "localCount": 3189,
+    "remoteCount": 2296,
+    "totalCount": 5104,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T13:00:00.000Z",
+    "localCount": 3190,
+    "remoteCount": 2297,
+    "totalCount": 5106,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T14:00:00.000Z",
+    "localCount": 3188,
+    "remoteCount": 2295,
+    "totalCount": 5102,
+    "bothCount": 382,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T15:00:00.000Z",
+    "localCount": 3186,
+    "remoteCount": 2294,
+    "totalCount": 5098,
+    "bothCount": 383,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T16:00:00.000Z",
+    "localCount": 3187,
+    "remoteCount": 2294,
+    "totalCount": 5100,
+    "bothCount": 383,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-25T17:00:00.000Z",
+    "localCount": 3192,
+    "remoteCount": 2298,
+    "totalCount": 5109,
+    "bothCount": 383,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-25T18:00:00.000Z",
+    "localCount": 3198,
+    "remoteCount": 2302,
+    "totalCount": 5118,
+    "bothCount": 383,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T19:00:00.000Z",
+    "localCount": 3196,
+    "remoteCount": 2302,
+    "totalCount": 5116,
+    "bothCount": 383,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T20:00:00.000Z",
+    "localCount": 3192,
+    "remoteCount": 2298,
+    "totalCount": 5109,
+    "bothCount": 383,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-25T21:00:00.000Z",
+    "localCount": 3196,
+    "remoteCount": 2301,
+    "totalCount": 5115,
+    "bothCount": 383,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T22:00:00.000Z",
+    "localCount": 3201,
+    "remoteCount": 2305,
+    "totalCount": 5124,
+    "bothCount": 383,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-25T23:00:00.000Z",
+    "localCount": 3200,
+    "remoteCount": 2304,
+    "totalCount": 5120,
+    "bothCount": 384,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T00:00:00.000Z",
+    "localCount": 3196,
+    "remoteCount": 2300,
+    "totalCount": 5113,
+    "bothCount": 384,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T01:00:00.000Z",
+    "localCount": 3197,
+    "remoteCount": 2301,
+    "totalCount": 5115,
+    "bothCount": 384,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T02:00:00.000Z",
+    "localCount": 3197,
+    "remoteCount": 2302,
+    "totalCount": 5116,
+    "bothCount": 384,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T03:00:00.000Z",
+    "localCount": 3208,
+    "remoteCount": 2310,
+    "totalCount": 5134,
+    "bothCount": 384,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T04:00:00.000Z",
+    "localCount": 3206,
+    "remoteCount": 2307,
+    "totalCount": 5130,
+    "bothCount": 384,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T05:00:00.000Z",
+    "localCount": 3208,
+    "remoteCount": 2309,
+    "totalCount": 5134,
+    "bothCount": 384,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T06:00:00.000Z",
+    "localCount": 3207,
+    "remoteCount": 2309,
+    "totalCount": 5132,
+    "bothCount": 384,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T07:00:00.000Z",
+    "localCount": 3205,
+    "remoteCount": 2308,
+    "totalCount": 5128,
+    "bothCount": 384,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T08:00:00.000Z",
+    "localCount": 3214,
+    "remoteCount": 2313,
+    "totalCount": 5144,
+    "bothCount": 385,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-26T09:00:00.000Z",
+    "localCount": 3210,
+    "remoteCount": 2311,
+    "totalCount": 5136,
+    "bothCount": 385,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T10:00:00.000Z",
+    "localCount": 3212,
+    "remoteCount": 2312,
+    "totalCount": 5140,
+    "bothCount": 385,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T11:00:00.000Z",
+    "localCount": 3210,
+    "remoteCount": 2311,
+    "totalCount": 5137,
+    "bothCount": 385,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T12:00:00.000Z",
+    "localCount": 3216,
+    "remoteCount": 2315,
+    "totalCount": 5147,
+    "bothCount": 385,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T13:00:00.000Z",
+    "localCount": 3217,
+    "remoteCount": 2316,
+    "totalCount": 5149,
+    "bothCount": 385,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T14:00:00.000Z",
+    "localCount": 3219,
+    "remoteCount": 2317,
+    "totalCount": 5152,
+    "bothCount": 385,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T15:00:00.000Z",
+    "localCount": 3221,
+    "remoteCount": 2319,
+    "totalCount": 5155,
+    "bothCount": 386,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T16:00:00.000Z",
+    "localCount": 3211,
+    "remoteCount": 2312,
+    "totalCount": 5139,
+    "bothCount": 386,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-26T17:00:00.000Z",
+    "localCount": 3212,
+    "remoteCount": 2313,
+    "totalCount": 5140,
+    "bothCount": 386,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T18:00:00.000Z",
+    "localCount": 3224,
+    "remoteCount": 2321,
+    "totalCount": 5160,
+    "bothCount": 386,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T19:00:00.000Z",
+    "localCount": 3222,
+    "remoteCount": 2320,
+    "totalCount": 5157,
+    "bothCount": 386,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T20:00:00.000Z",
+    "localCount": 3225,
+    "remoteCount": 2321,
+    "totalCount": 5162,
+    "bothCount": 386,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-26T21:00:00.000Z",
+    "localCount": 3225,
+    "remoteCount": 2322,
+    "totalCount": 5161,
+    "bothCount": 386,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-26T22:00:00.000Z",
+    "localCount": 3222,
+    "remoteCount": 2320,
+    "totalCount": 5157,
+    "bothCount": 386,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-26T23:00:00.000Z",
+    "localCount": 3227,
+    "remoteCount": 2323,
+    "totalCount": 5164,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T00:00:00.000Z",
+    "localCount": 3221,
+    "remoteCount": 2319,
+    "totalCount": 5154,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T01:00:00.000Z",
+    "localCount": 3231,
+    "remoteCount": 2326,
+    "totalCount": 5171,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T02:00:00.000Z",
+    "localCount": 3227,
+    "remoteCount": 2323,
+    "totalCount": 5164,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T03:00:00.000Z",
+    "localCount": 3226,
+    "remoteCount": 2323,
+    "totalCount": 5161,
+    "bothCount": 387,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-27T04:00:00.000Z",
+    "localCount": 3231,
+    "remoteCount": 2326,
+    "totalCount": 5171,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T05:00:00.000Z",
+    "localCount": 3231,
+    "remoteCount": 2326,
+    "totalCount": 5171,
+    "bothCount": 387,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T06:00:00.000Z",
+    "localCount": 3236,
+    "remoteCount": 2329,
+    "totalCount": 5178,
+    "bothCount": 387,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-27T07:00:00.000Z",
+    "localCount": 3231,
+    "remoteCount": 2327,
+    "totalCount": 5171,
+    "bothCount": 388,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T08:00:00.000Z",
+    "localCount": 3238,
+    "remoteCount": 2331,
+    "totalCount": 5183,
+    "bothCount": 388,
+    "unknownCount": 2
+  },
+  {
+    "timestamp": "2025-01-27T09:00:00.000Z",
+    "localCount": 3229,
+    "remoteCount": 2325,
+    "totalCount": 5167,
+    "bothCount": 388,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T10:00:00.000Z",
+    "localCount": 3242,
+    "remoteCount": 2334,
+    "totalCount": 5188,
+    "bothCount": 388,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-27T11:00:00.000Z",
+    "localCount": 3236,
+    "remoteCount": 2330,
+    "totalCount": 5179,
+    "bothCount": 388,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T12:00:00.000Z",
+    "localCount": 3236,
+    "remoteCount": 2329,
+    "totalCount": 5178,
+    "bothCount": 388,
+    "unknownCount": 1
+  },
+  {
+    "timestamp": "2025-01-27T13:00:00.000Z",
+    "localCount": 3233,
+    "remoteCount": 2328,
+    "totalCount": 5173,
+    "bothCount": 388,
+    "unknownCount": 0
+  },
+  {
+    "timestamp": "2025-01-27T14:00:00.000Z",
+    "localCount": 3243,
+    "remoteCount": 2335,
+    "totalCount": 5190,
+    "bothCount": 388,
+    "unknownCount": 0
+  }
+]
+
