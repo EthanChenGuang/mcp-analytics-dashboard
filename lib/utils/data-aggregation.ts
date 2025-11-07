@@ -1,14 +1,14 @@
 import { AnalyticsSnapshot, Granularity, TimeSeriesDataPoint } from '@/lib/types/analytics';
 import {
-    endOfDay,
-    endOfHour,
-    endOfMonth,
-    endOfWeek,
-    format,
-    startOfDay,
-    startOfHour,
-    startOfMonth,
-    startOfWeek
+  endOfDay,
+  endOfHour,
+  endOfMonth,
+  endOfWeek,
+  format,
+  startOfDay,
+  startOfHour,
+  startOfMonth,
+  startOfWeek
 } from 'date-fns';
 
 export function aggregateByGranularity(
