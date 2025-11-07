@@ -31,19 +31,32 @@ while true; do
   fi
   
   echo "Fetching: $url"
-  response=$(curl -s "$url")
+  
+  # Fetch response and handle errors
+  response_file=$(mktemp)
+  if ! curl -s -f "$url" > "$response_file"; then
+    echo "Error: Failed to fetch $url" >&2
+    rm -f "$response_file"
+    exit 1
+  fi
   
   # Validate JSON response
-  if ! echo "$response" | jq empty 2>/dev/null; then
+  if ! jq empty < "$response_file" 2>/dev/null; then
     echo "Error: Invalid JSON response from $url" >&2
+    echo "Response preview (first 500 chars):" >&2
+    head -c 500 < "$response_file" >&2
+    echo "" >&2
+    rm -f "$response_file"
     exit 1
   fi
   
   # Extract and store all latest server entries as compact JSON lines (properly escaped)
-  echo "$response" | jq -c '.servers[] | select(._meta."io.modelcontextprotocol.registry/official".isLatest == true)' >> "$all_servers_file"
+  jq -c '.servers[] | select(._meta."io.modelcontextprotocol.registry/official".isLatest == true)' < "$response_file" >> "$all_servers_file"
   
   # Check for next page
-  next_cursor=$(echo "$response" | jq -r '.metadata.nextCursor // empty')
+  next_cursor=$(jq -r '.metadata.nextCursor // empty' < "$response_file")
+  
+  rm -f "$response_file"
   
   if [[ -z "$next_cursor" ]]; then
     break
