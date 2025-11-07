@@ -40,3 +40,6 @@ next-env.d.ts
 
 
 >>>>>>> 001-mcp-analytics-dashboard
+
+# Next.js build output
+.next/
