@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-11-07T14:45:29Z",
+    "localCount": 386,
+    "remoteCount": 384,
+    "totalCount": 755,
+    "bothCount": 15,
+    "unknownCount": 27
+  },
+  {
+    "timestamp": "2025-11-07T14:52:54Z",
+    "localCount": 386,
+    "remoteCount": 384,
+    "totalCount": 755,
+    "bothCount": 15,
+    "unknownCount": 27
+  }
+]

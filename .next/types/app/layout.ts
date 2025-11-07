@@ -1,4 +1,4 @@
-// File: /home/guang/Projects/Vibe-Coding/Spec-Kit/mcp-registry-ui/app/layout.tsx
+// File: /home/guang/Projects/Vibe-Coding/Spec-Kit/mcp-analytics-dashboard/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

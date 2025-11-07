@@ -1,0 +1,33 @@
+name: Aggregate MCP Analytics
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour at minute 0
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq curl
+      
+      - name: Aggregate analytics
+        run: ./.github/scripts/aggregate-analytics.sh
+        env:
+          API_URL: https://registry.modelcontextprotocol.io/v0/servers
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/analytics-latest.json
+          git diff --staged --quiet || git commit -m "Update analytics: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
