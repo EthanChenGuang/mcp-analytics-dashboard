@@ -26,6 +26,29 @@ jobs:
         env:
           API_URL: https://registry.modelcontextprotocol.io/v0/servers
       
+      - name: Validate analytics data
+        run: |
+          chmod +x ./.github/scripts/validate-analytics.sh
+          ./.github/scripts/validate-analytics.sh public/data/analytics-latest.json
+      
+      - name: Check for missing snapshots
+        run: |
+          # Get the last snapshot timestamp
+          LAST_TIMESTAMP=$(jq -r '.[-1].timestamp' public/data/analytics-latest.json)
+          LAST_EPOCH=$(date -u -d "$LAST_TIMESTAMP" +%s 2>/dev/null || echo "0")
+          CURRENT_EPOCH=$(date +%s)
+          GAP_SECONDS=$((CURRENT_EPOCH - LAST_EPOCH))
+          GAP_HOURS=$((GAP_SECONDS / 3600))
+          
+          # Warn if last snapshot is more than 2 hours old
+          if [[ "$GAP_HOURS" -gt 2 ]]; then
+            echo "⚠️ Warning: Last snapshot is ${GAP_HOURS} hours old. This might indicate missing snapshots."
+            echo "Last snapshot: $LAST_TIMESTAMP"
+            echo "Current time: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          else
+            echo "✅ Last snapshot is recent (${GAP_HOURS} hours old)"
+          fi
+      
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

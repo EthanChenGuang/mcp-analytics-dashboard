@@ -11,6 +11,155 @@ import {
   startOfWeek
 } from 'date-fns';
 
+/**
+ * Get the start of an hour in UTC (for consistent grouping regardless of local timezone)
+ */
+function startOfHourUTC(date: Date): Date {
+  const utcDate = new Date(Date.UTC(
+    date.getUTCFullYear(),
+    date.getUTCMonth(),
+    date.getUTCDate(),
+    date.getUTCHours(),
+    0,
+    0,
+    0
+  ));
+  return utcDate;
+}
+
+/**
+ * Get the end of an hour in UTC (for consistent grouping regardless of local timezone)
+ */
+function endOfHourUTC(date: Date): Date {
+  const utcDate = new Date(Date.UTC(
+    date.getUTCFullYear(),
+    date.getUTCMonth(),
+    date.getUTCDate(),
+    date.getUTCHours(),
+    59,
+    59,
+    999
+  ));
+  return utcDate;
+}
+
+/**
+ * Get the start of a day in UTC (for consistent grouping regardless of local timezone)
+ */
+function startOfDayUTC(date: Date): Date {
+  const utcDate = new Date(Date.UTC(
+    date.getUTCFullYear(),
+    date.getUTCMonth(),
+    date.getUTCDate(),
+    0,
+    0,
+    0,
+    0
+  ));
+  return utcDate;
+}
+
+/**
+ * Get the end of a day in UTC (for consistent grouping regardless of local timezone)
+ */
+function endOfDayUTC(date: Date): Date {
+  const utcDate = new Date(Date.UTC(
+    date.getUTCFullYear(),
+    date.getUTCMonth(),
+    date.getUTCDate(),
+    23,
+    59,
+    59,
+    999
+  ));
+  return utcDate;
+}
+
+/**
+ * Get the start of a week in UTC (Monday, for consistent grouping regardless of local timezone)
+ */
+function startOfWeekUTC(date: Date): Date {
+  const dayOfWeek = date.getUTCDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+  const daysToMonday = dayOfWeek === 0 ? 6 : dayOfWeek - 1; // Convert to Monday = 0
+  
+  const utcDate = new Date(date);
+  utcDate.setUTCDate(date.getUTCDate() - daysToMonday);
+  utcDate.setUTCHours(0, 0, 0, 0);
+  return utcDate;
+}
+
+/**
+ * Get the end of a week in UTC (Sunday, for consistent grouping regardless of local timezone)
+ */
+function endOfWeekUTC(date: Date): Date {
+  const dayOfWeek = date.getUTCDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+  const daysToSunday = dayOfWeek === 0 ? 0 : 7 - dayOfWeek;
+  
+  const utcDate = new Date(date);
+  utcDate.setUTCDate(date.getUTCDate() + daysToSunday);
+  utcDate.setUTCHours(23, 59, 59, 999);
+  return utcDate;
+}
+
+/**
+ * Get the start of a month in UTC (for consistent grouping regardless of local timezone)
+ */
+function startOfMonthUTC(date: Date): Date {
+  const utcDate = new Date(Date.UTC(
+    date.getUTCFullYear(),
+    date.getUTCMonth(),
+    1,
+    0,
+    0,
+    0,
+    0
+  ));
+  return utcDate;
+}
+
+/**
+ * Get the end of a month in UTC (for consistent grouping regardless of local timezone)
+ */
+function endOfMonthUTC(date: Date): Date {
+  const year = date.getUTCFullYear();
+  const month = date.getUTCMonth();
+  const lastDay = new Date(Date.UTC(year, month + 1, 0)).getUTCDate();
+  
+  const utcDate = new Date(Date.UTC(
+    year,
+    month,
+    lastDay,
+    23,
+    59,
+    59,
+    999
+  ));
+  return utcDate;
+}
+
+/**
+ * Format a date in UTC timezone (for consistent grouping regardless of local timezone)
+ */
+function formatUTC(date: Date, formatStr: string): string {
+  const year = date.getUTCFullYear();
+  const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(date.getUTCDate()).padStart(2, '0');
+  const hours = String(date.getUTCHours()).padStart(2, '0');
+  const minutes = String(date.getUTCMinutes()).padStart(2, '0');
+  const seconds = String(date.getUTCSeconds()).padStart(2, '0');
+  
+  if (formatStr === "yyyy-MM-dd'T'HH:mm:ss") {
+    return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}`;
+  } else if (formatStr === 'yyyy-MM-dd') {
+    return `${year}-${month}-${day}`;
+  } else if (formatStr === 'yyyy-MM') {
+    return `${year}-${month}`;
+  }
+  
+  // Fallback to regular format if pattern not recognized
+  return format(date, formatStr);
+}
+
 export function aggregateByGranularity(
   snapshots: AnalyticsSnapshot[],
   granularity: Granularity
@@ -35,20 +184,25 @@ export function aggregateByGranularity(
     } else {
       switch (granularity) {
         case 'hourly':
-          periodStart = startOfHour(date);
-          periodKey = format(periodStart, "yyyy-MM-dd'T'HH:mm:ss");
+          periodStart = startOfHourUTC(date);
+          // Use UTC formatting to ensure consistent grouping regardless of local timezone
+          periodKey = formatUTC(periodStart, "yyyy-MM-dd'T'HH:mm:ss");
           break;
         case 'daily':
-          periodStart = startOfDay(date);
-          periodKey = format(periodStart, 'yyyy-MM-dd');
+          periodStart = startOfDayUTC(date);
+          // Use UTC formatting to ensure consistent grouping regardless of local timezone
+          periodKey = formatUTC(periodStart, 'yyyy-MM-dd');
           break;
         case 'weekly':
-          periodStart = startOfWeek(date, { weekStartsOn: 1 }); // Monday
-          periodKey = format(periodStart, 'yyyy-MM-dd');
+          // For weekly, we need to find the Monday of the week in UTC
+          periodStart = startOfWeekUTC(date);
+          // Use UTC formatting to ensure consistent grouping regardless of local timezone
+          periodKey = formatUTC(periodStart, 'yyyy-MM-dd');
           break;
         case 'monthly':
-          periodStart = startOfMonth(date);
-          periodKey = format(periodStart, 'yyyy-MM');
+          periodStart = startOfMonthUTC(date);
+          // Use UTC formatting to ensure consistent grouping regardless of local timezone
+          periodKey = formatUTC(periodStart, 'yyyy-MM');
           break;
       }
     }
@@ -76,20 +230,20 @@ export function aggregateByGranularity(
     } else {
       switch (granularity) {
         case 'hourly':
-          periodStart = startOfHour(date);
-          periodEnd = endOfHour(date);
+          periodStart = startOfHourUTC(date);
+          periodEnd = endOfHourUTC(date);
           break;
         case 'daily':
-          periodStart = startOfDay(date);
-          periodEnd = endOfDay(date);
+          periodStart = startOfDayUTC(date);
+          periodEnd = endOfDayUTC(date);
           break;
         case 'weekly':
-          periodStart = startOfWeek(date, { weekStartsOn: 1 });
-          periodEnd = endOfWeek(date, { weekStartsOn: 1 });
+          periodStart = startOfWeekUTC(date);
+          periodEnd = endOfWeekUTC(date);
           break;
         case 'monthly':
-          periodStart = startOfMonth(date);
-          periodEnd = endOfMonth(date);
+          periodStart = startOfMonthUTC(date);
+          periodEnd = endOfMonthUTC(date);
           break;
       }
     }

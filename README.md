@@ -70,7 +70,15 @@ Analytics data is aggregated hourly via GitHub Actions. The workflow:
 1. Fetches all servers from the MCP Registry API
 2. Classifies each server (local/remote/both/unknown)
 3. Creates a snapshot with counts
-4. Stores data in `public/data/analytics-latest.json`
+4. Validates data integrity
+5. Stores data in `public/data/analytics-latest.json`
+
+**Important**: Data aggregation uses UTC timezone for consistency. See [UTC Timezone Handling](docs/UTC-TIMEZONE-HANDLING.md) for details.
+
+## Documentation
+
+- [UTC Timezone Handling](docs/UTC-TIMEZONE-HANDLING.md) - Best practices for timezone handling
+- [Preventing Missing Snapshots](docs/PREVENTING-MISSING-SNAPSHOTS.md) - How to prevent and detect missing data
 
 ## Development
 
