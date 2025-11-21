@@ -2478,5 +2478,13 @@
     "totalCount": 854,
     "bothCount": 22,
     "unknownCount": 31
+  },
+  {
+    "timestamp": "2025-11-21T16:30:58Z",
+    "localCount": 460,
+    "remoteCount": 415,
+    "totalCount": 854,
+    "bothCount": 21,
+    "unknownCount": 31
   }
 ]
