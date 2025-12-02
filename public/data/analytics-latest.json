@@ -4414,5 +4414,13 @@
     "totalCount": 928,
     "bothCount": 23,
     "unknownCount": 32
+  },
+  {
+    "timestamp": "2025-12-02T17:28:10Z",
+    "localCount": 503,
+    "remoteCount": 449,
+    "totalCount": 929,
+    "bothCount": 23,
+    "unknownCount": 33
   }
 ]
