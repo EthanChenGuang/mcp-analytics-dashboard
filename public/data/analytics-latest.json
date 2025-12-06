@@ -4822,5 +4822,13 @@
     "totalCount": 960,
     "bothCount": 23,
     "unknownCount": 35
+  },
+  {
+    "timestamp": "2025-12-06T06:35:55Z",
+    "localCount": 527,
+    "remoteCount": 456,
+    "totalCount": 960,
+    "bothCount": 23,
+    "unknownCount": 35
   }
 ]
