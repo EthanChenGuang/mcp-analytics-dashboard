@@ -21982,5 +21982,13 @@
     "totalCount": 4427,
     "bothCount": 167,
     "unknownCount": 97
+  },
+  {
+    "timestamp": "2026-03-29T09:47:27Z",
+    "localCount": 3161,
+    "remoteCount": 1434,
+    "totalCount": 4428,
+    "bothCount": 167,
+    "unknownCount": 97
   }
 ]
