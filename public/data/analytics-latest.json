@@ -29046,5 +29046,13 @@
     "totalCount": 13761,
     "bothCount": 717,
     "unknownCount": 260
+  },
+  {
+    "timestamp": "2026-06-28T00:15:03Z",
+    "localCount": 7994,
+    "remoteCount": 6489,
+    "totalCount": 13765,
+    "bothCount": 718,
+    "unknownCount": 260
   }
 ]
